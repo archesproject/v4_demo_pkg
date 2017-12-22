@@ -50,7 +50,7 @@
         {
             "arches_nodeid": "23a06aa0-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Ancillary Feature Type", 
-            "file_field_name": ANCILLARY_FEATURE_TYPE_E55 
+            "file_field_name": "ANCILLARY_FEATURE_TYPE_E55", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false

@@ -1,4 +1,4 @@
-RESOURCEID,GROUPID,CREATOR_APPELLATION_E82,DATE_OF_CREATION_E50,DESCRIPTION_E62,DESCRIPTION_TYPE_E55,EXTERNAL_XREF_E42,EXTERNAL_XREF_TYPE_E55,FILE_PATH_E62,INFORMATION_CARRIER_FORMAT_TYPE_E55,INFORMATION_RESOURCE_TYPE_E55,THUMBNAIL_E62,TITLE_E41,TITLE_TYPE_E55
+ResourceID,GROUPID,CREATOR_APPELLATION_E82,DATE_OF_CREATION_E50,DESCRIPTION_E62,DESCRIPTION_TYPE_E55,EXTERNAL_XREF_E42,EXTERNAL_XREF_TYPE_E55,FILE_PATH_E62,INFORMATION_CARRIER_FORMAT_TYPE_E55,INFORMATION_RESOURCE_TYPE_E55,THUMBNAIL_E62,TITLE_E41,TITLE_TYPE_E55
 080dbb21-e80f-41dc-8d9c-b41cd6a416bb.JPG,DESCRIPTION.E62-0,,,Rindge-Hastings House on Harvard and landscape feature.,eb3bd719-c473-40b8-bf0a-cdb9ed89aba3,,,,,,,,
 080dbb21-e80f-41dc-8d9c-b41cd6a416bb.JPG,EXTERNAL_RESOURCE.E1-0,,,,,080dbb21-e80f-41dc-8d9c-b41cd6a416bb.JPG,3a733e36-6b1d-411c-b51c-bc7c339dd84b,,,,,,
 080dbb21-e80f-41dc-8d9c-b41cd6a416bb.JPG,FILE_PATH.E62-0,,,,,,,files/080dbb21-e80f-41dc-8d9c-b41cd6a416bb.JPG,,,,,
@@ -876,35 +876,6 @@ QV15_image_2.jpg,FILE_PATH.E62-34,,,,,,,files/QV15_image_2.jpg,,,,,
 QV15_image_2.jpg,INFORMATION_CARRIER.E84-34,,,,,,,,e2ca29d9-bf19-4025-a11c-99860f2fde88,,,,
 QV15_image_2.jpg,RESOURCE_CREATION_EVENT.E65-34,,,,,,,,,4d4c617a-87f8-4fdc-b2c7-6331f1d5dc4c,,,
 QV15_image_2.jpg,THUMBNAIL.E62-34,,,,,,,,,,files/QV15_image_2_thmbnl.jpg,,
-QV33_image_5.jpg,FILE_PATH.E62-82,,,,,,,files/QV33_image_5.jpg,,,,,
-QV33_image_5.jpg,INFORMATION_CARRIER.E84-82,,,,,,,,e2ca29d9-bf19-4025-a11c-99860f2fde88,,,,
-QV33_image_5.jpg,RESOURCE_CREATION_EVENT.E65-82,,,,,,,,,4d4c617a-87f8-4fdc-b2c7-6331f1d5dc4c,,,
-QV33_image_5.jpg,THUMBNAIL.E62-82,,,,,,,,,,files/QV33_image_5_thmbnl.jpg,,
-QV33_image_5.jpg,TITLE.E41-82,,,,,,,,,,,QV33_image_5,78e71e70-8009-40e2-a078-9a2ebf7a0e6f
-QV33_TMP_drawing_1.jpg,EXTERNAL_RESOURCE.E1-316,,,,,QV 33 sheet1.CEDAE labels.jpg,4d0340fe-3e70-4348-9e9b-c039d646b762,,,,,,
-QV33_TMP_drawing_1.jpg,FILE_PATH.E62-316,,,,,,,files/QV33_TMP_drawing_1.jpg,,,,,
-QV33_TMP_drawing_1.jpg,INFORMATION_CARRIER.E84-316,,,,,,,,e2ca29d9-bf19-4025-a11c-99860f2fde88,,,,
-QV33_TMP_drawing_1.jpg,RESOURCE_CREATION_EVENT.E65-316,,,,,,,,,4d4c617a-87f8-4fdc-b2c7-6331f1d5dc4c,,,
-QV33_TMP_drawing_1.jpg,THUMBNAIL.E62-316,,,,,,,,,,files/QV33_TMP_drawing_1_thmbnl.jpg,,
-QV33_TMP_drawing_1.jpg,TITLE.E41-316,,,,,,,,,,,QV33_TMP_drawing_1,78e71e70-8009-40e2-a078-9a2ebf7a0e6f
-QV33_TMP_drawing_2.jpg,EXTERNAL_RESOURCE.E1-317,,,,,QV 33 sheet2.CEDAE labels.jpg,4d0340fe-3e70-4348-9e9b-c039d646b762,,,,,,
-QV33_TMP_drawing_2.jpg,FILE_PATH.E62-317,,,,,,,files/QV33_TMP_drawing_2.jpg,,,,,
-QV33_TMP_drawing_2.jpg,INFORMATION_CARRIER.E84-317,,,,,,,,e2ca29d9-bf19-4025-a11c-99860f2fde88,,,,
-QV33_TMP_drawing_2.jpg,RESOURCE_CREATION_EVENT.E65-317,,,,,,,,,4d4c617a-87f8-4fdc-b2c7-6331f1d5dc4c,,,
-QV33_TMP_drawing_2.jpg,THUMBNAIL.E62-317,,,,,,,,,,files/QV33_TMP_drawing_2_thmbnl.jpg,,
-QV33_TMP_drawing_2.jpg,TITLE.E41-317,,,,,,,,,,,QV33_TMP_drawing_2,78e71e70-8009-40e2-a078-9a2ebf7a0e6f
-QV34_image_1.jpg,DESCRIPTION.E62-83,,,View of collapsed QV34.,eb3bd719-c473-40b8-bf0a-cdb9ed89aba3,,,,,,,,
-QV34_image_1.jpg,EXTERNAL_RESOURCE.E1-83,,,,,EGY.QV.t34.12.07Feb.JBell.d.jpg,4d0340fe-3e70-4348-9e9b-c039d646b762,,,,,,
-QV34_image_1.jpg,FILE_PATH.E62-83,,,,,,,files/QV34_image_1.jpg,,,,,
-QV34_image_1.jpg,INFORMATION_CARRIER.E84-83,,,,,,,,e2ca29d9-bf19-4025-a11c-99860f2fde88,,,,
-QV34_image_1.jpg,RESOURCE_CREATION_EVENT.E65-83,,,,,,,,,4d4c617a-87f8-4fdc-b2c7-6331f1d5dc4c,,,
-QV34_image_1.jpg,THUMBNAIL.E62-83,,,,,,,,,,files/QV34_image_1_thmbnl.jpg,,
-QV34_image_1.jpg,TITLE.E41-83,,,,,,,,,,,QV34_image_1,78e71e70-8009-40e2-a078-9a2ebf7a0e6f
-QV34_image_2.jpg,DESCRIPTION.E62-84,,,Detail of area of painting on the south wall of chamber (C).,eb3bd719-c473-40b8-bf0a-cdb9ed89aba3,,,,,,,,
-QV34_image_2.jpg,EXTERNAL_RESOURCE.E1-84,,,,,EGY.QV.2007FEB.t34.12.LWong.d.jpg,4d0340fe-3e70-4348-9e9b-c039d646b762,,,,,,
-QV34_image_2.jpg,FILE_PATH.E62-84,,,,,,,files/QV34_image_2.jpg,,,,,
-QV34_image_2.jpg,INFORMATION_CARRIER.E84-84,,,,,,,,e2ca29d9-bf19-4025-a11c-99860f2fde88,,,,
-QV34_image_2.jpg,RESOURCE_CREATION_EVENT.E65-84,,,,,,,,,4d4c617a-87f8-4fdc-b2c7-6331f1d5dc4c,,,
 QV15_image_2.jpg,TITLE.E41-34,,,,,,,,,,,QV15_image_2,78e71e70-8009-40e2-a078-9a2ebf7a0e6f
 QV15_TMP_drawing_1.jpg,EXTERNAL_RESOURCE.E1-303,,,,,QV 15+16.CEDAE labels.jpg,4d0340fe-3e70-4348-9e9b-c039d646b762,,,,,,
 QV15_TMP_drawing_1.jpg,FILE_PATH.E62-303,,,,,,,files/QV15_TMP_drawing_1.jpg,,,,,
@@ -1313,8 +1284,37 @@ QV33_image_4.jpg,INFORMATION_CARRIER.E84-81,,,,,,,,e2ca29d9-bf19-4025-a11c-99860
 QV33_image_4.jpg,RESOURCE_CREATION_EVENT.E65-81,,,,,,,,,4d4c617a-87f8-4fdc-b2c7-6331f1d5dc4c,,,
 QV33_image_4.jpg,THUMBNAIL.E62-81,,,,,,,,,,files/QV33_image_4_thmbnl.jpg,,
 QV33_image_4.jpg,TITLE.E41-81,,,,,,,,,,,QV33_image_4,78e71e70-8009-40e2-a078-9a2ebf7a0e6f
+QV33_image_5.jpg,FILE_PATH.E62-82,,,,,,,files/QV33_image_5.jpg,,,,,
+QV33_image_5.jpg,INFORMATION_CARRIER.E84-82,,,,,,,,e2ca29d9-bf19-4025-a11c-99860f2fde88,,,,
+QV33_image_5.jpg,RESOURCE_CREATION_EVENT.E65-82,,,,,,,,,4d4c617a-87f8-4fdc-b2c7-6331f1d5dc4c,,,
+QV33_image_5.jpg,THUMBNAIL.E62-82,,,,,,,,,,files/QV33_image_5_thmbnl.jpg,,
+QV33_image_5.jpg,TITLE.E41-82,,,,,,,,,,,QV33_image_5,78e71e70-8009-40e2-a078-9a2ebf7a0e6f
 QV33_image_5.jpg,DESCRIPTION.E62-82,,,Wall painting of queen on south wall of main chamber.,eb3bd719-c473-40b8-bf0a-cdb9ed89aba3,,,,,,,,
 QV33_image_5.jpg,EXTERNAL_RESOURCE.E1-82,,,,,EGY.QV.t33.33.08Feb.LWong.d.jpg,4d0340fe-3e70-4348-9e9b-c039d646b762,,,,,,
+QV33_TMP_drawing_1.jpg,EXTERNAL_RESOURCE.E1-316,,,,,QV 33 sheet1.CEDAE labels.jpg,4d0340fe-3e70-4348-9e9b-c039d646b762,,,,,,
+QV33_TMP_drawing_1.jpg,FILE_PATH.E62-316,,,,,,,files/QV33_TMP_drawing_1.jpg,,,,,
+QV33_TMP_drawing_1.jpg,INFORMATION_CARRIER.E84-316,,,,,,,,e2ca29d9-bf19-4025-a11c-99860f2fde88,,,,
+QV33_TMP_drawing_1.jpg,RESOURCE_CREATION_EVENT.E65-316,,,,,,,,,4d4c617a-87f8-4fdc-b2c7-6331f1d5dc4c,,,
+QV33_TMP_drawing_1.jpg,THUMBNAIL.E62-316,,,,,,,,,,files/QV33_TMP_drawing_1_thmbnl.jpg,,
+QV33_TMP_drawing_1.jpg,TITLE.E41-316,,,,,,,,,,,QV33_TMP_drawing_1,78e71e70-8009-40e2-a078-9a2ebf7a0e6f
+QV33_TMP_drawing_2.jpg,EXTERNAL_RESOURCE.E1-317,,,,,QV 33 sheet2.CEDAE labels.jpg,4d0340fe-3e70-4348-9e9b-c039d646b762,,,,,,
+QV33_TMP_drawing_2.jpg,FILE_PATH.E62-317,,,,,,,files/QV33_TMP_drawing_2.jpg,,,,,
+QV33_TMP_drawing_2.jpg,INFORMATION_CARRIER.E84-317,,,,,,,,e2ca29d9-bf19-4025-a11c-99860f2fde88,,,,
+QV33_TMP_drawing_2.jpg,RESOURCE_CREATION_EVENT.E65-317,,,,,,,,,4d4c617a-87f8-4fdc-b2c7-6331f1d5dc4c,,,
+QV33_TMP_drawing_2.jpg,THUMBNAIL.E62-317,,,,,,,,,,files/QV33_TMP_drawing_2_thmbnl.jpg,,
+QV33_TMP_drawing_2.jpg,TITLE.E41-317,,,,,,,,,,,QV33_TMP_drawing_2,78e71e70-8009-40e2-a078-9a2ebf7a0e6f
+QV34_image_1.jpg,DESCRIPTION.E62-83,,,View of collapsed QV34.,eb3bd719-c473-40b8-bf0a-cdb9ed89aba3,,,,,,,,
+QV34_image_1.jpg,EXTERNAL_RESOURCE.E1-83,,,,,EGY.QV.t34.12.07Feb.JBell.d.jpg,4d0340fe-3e70-4348-9e9b-c039d646b762,,,,,,
+QV34_image_1.jpg,FILE_PATH.E62-83,,,,,,,files/QV34_image_1.jpg,,,,,
+QV34_image_1.jpg,INFORMATION_CARRIER.E84-83,,,,,,,,e2ca29d9-bf19-4025-a11c-99860f2fde88,,,,
+QV34_image_1.jpg,RESOURCE_CREATION_EVENT.E65-83,,,,,,,,,4d4c617a-87f8-4fdc-b2c7-6331f1d5dc4c,,,
+QV34_image_1.jpg,THUMBNAIL.E62-83,,,,,,,,,,files/QV34_image_1_thmbnl.jpg,,
+QV34_image_1.jpg,TITLE.E41-83,,,,,,,,,,,QV34_image_1,78e71e70-8009-40e2-a078-9a2ebf7a0e6f
+QV34_image_2.jpg,DESCRIPTION.E62-84,,,Detail of area of painting on the south wall of chamber (C).,eb3bd719-c473-40b8-bf0a-cdb9ed89aba3,,,,,,,,
+QV34_image_2.jpg,EXTERNAL_RESOURCE.E1-84,,,,,EGY.QV.2007FEB.t34.12.LWong.d.jpg,4d0340fe-3e70-4348-9e9b-c039d646b762,,,,,,
+QV34_image_2.jpg,FILE_PATH.E62-84,,,,,,,files/QV34_image_2.jpg,,,,,
+QV34_image_2.jpg,INFORMATION_CARRIER.E84-84,,,,,,,,e2ca29d9-bf19-4025-a11c-99860f2fde88,,,,
+QV34_image_2.jpg,RESOURCE_CREATION_EVENT.E65-84,,,,,,,,,4d4c617a-87f8-4fdc-b2c7-6331f1d5dc4c,,,
 QV34_image_2.jpg,THUMBNAIL.E62-84,,,,,,,,,,files/QV34_image_2_thmbnl.jpg,,
 QV34_image_2.jpg,TITLE.E41-84,,,,,,,,,,,QV34_image_2,78e71e70-8009-40e2-a078-9a2ebf7a0e6f
 QV34_image_3.jpg,DESCRIPTION.E62-85,,,Structural supports in QV34.,eb3bd719-c473-40b8-bf0a-cdb9ed89aba3,,,,,,,,
@@ -2200,7 +2200,7 @@ QV60_image_5.jpg,INFORMATION_CARRIER.E84-181,,,,,,,,e2ca29d9-bf19-4025-a11c-9986
 QV60_image_5.jpg,RESOURCE_CREATION_EVENT.E65-181,,,,,,,,,4d4c617a-87f8-4fdc-b2c7-6331f1d5dc4c,,,
 QV60_image_5.jpg,THUMBNAIL.E62-181,,,,,,,,,,files/QV60_image_5_thmbnl.jpg,,
 QV60_image_5.jpg,TITLE.E41-181,,,,,,,,,,,QV60_image_6,78e71e70-8009-40e2-a078-9a2ebf7a0e6f
-QV60_image_6.jpg,DESCRIPTION.E62-182,,,Detail of area of Coptic painting on the east wall of antechamber -¬,eb3bd719-c473-40b8-bf0a-cdb9ed89aba3,,,,,,,,
+QV60_image_6.jpg,DESCRIPTION.E62-182,,,Detail of area of Coptic painting on the east wall of antechamber -?,eb3bd719-c473-40b8-bf0a-cdb9ed89aba3,,,,,,,,
 QV60_image_6.jpg,EXTERNAL_RESOURCE.E1-182,,,,,EGY.QV.2006DEC.t60.29.LWong.d.jpg,4d0340fe-3e70-4348-9e9b-c039d646b762,,,,,,
 QV60_image_6.jpg,FILE_PATH.E62-182,,,,,,,files/QV60_image_6.jpg,,,,,
 QV60_image_6.jpg,INFORMATION_CARRIER.E84-182,,,,,,,,e2ca29d9-bf19-4025-a11c-99860f2fde88,,,,
