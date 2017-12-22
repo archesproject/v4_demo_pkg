@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:arches="http://www.archesproject.org/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:Concept rdf:about="http://www.archesproject.org/c58dab86-454e-4723-be8f-505cb2d252b4">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/d88b2cb6-4722-4943-a2ce-a3c9c494aa59">
+        <arches:sortorder xml:lang="el">{"id": "6e7044de-fb0d-4ba9-abd9-d191b6ca63d0", "value": "249"}</arches:sortorder>
+        <skos:prefLabel xml:lang="en">{"id": "ea3e9a97-7b26-42d3-8839-180f553b8170", "value": "25TH DYNASTY"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/51016725-1b9f-4b5e-bef1-c8525b041cda">
+        <arches:sortorder xml:lang="el">{"id": "1dfd5866-43f9-4b5f-bdb3-d5c1e17bec70", "value": "245"}</arches:sortorder>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <skos:prefLabel xml:lang="en">{"id": "7575292c-5e92-466a-b9a6-4880400d0f4e", "value": "21ST DYNASTY"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859">
+        <dcterms:title xml:lang="en">{"id": "52b296f5-8791-49f1-bce6-7def891dcf2b", "value": "Additional Schemes"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://www.archesproject.org/3640736d-0e53-46ad-a030-20aca16cd72e"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="en">{"id": "5f9e473a-484e-4f96-a84f-c7dd0abf8f85", "value": "THIRD INTERMEDIATE"}</skos:prefLabel>
+    <arches:sortorder xml:lang="el">{"id": "bdb9161a-4868-4ac9-a9af-40b569b5cf5b", "value": "244"}</arches:sortorder>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/cf52be3b-512c-4ecb-b971-4e4f71f4023a">
+        <skos:prefLabel xml:lang="en">{"id": "ff08c4b8-ac82-48fb-8f67-97d6d554dd67", "value": "24TH DYNASTY"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <arches:sortorder xml:lang="el">{"id": "af402a87-7436-4f65-b19c-7b20b012db76", "value": "248"}</arches:sortorder>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/58eaa6ef-1eeb-4b08-a363-39ee85638253">
+        <arches:sortorder xml:lang="el">{"id": "3a04f9dc-a2bd-4458-9dd1-3c4c6d91adab", "value": "246"}</arches:sortorder>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <skos:prefLabel xml:lang="en">{"id": "8a4b5606-7a96-4b3a-976f-d7e5311f4407", "value": "22ND DYNASTY"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/932ce80e-9526-4ab5-97fc-1f98a11f633f">
+        <skos:prefLabel xml:lang="en">{"id": "f45e51a1-ddc9-4215-93d2-86e2faf6144d", "value": "23RD DYNASTY"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <arches:sortorder xml:lang="el">{"id": "32bab4ca-1b30-492f-88e5-cac3db77c0b9", "value": "247"}</arches:sortorder>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/4492a6f6-b711-4e20-8d2c-1dccafec58c1">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/62e37d75-2caf-4b92-b0d6-a5ae66fd82b1">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <skos:prefLabel xml:lang="en">{"id": "6699fc41-9f4a-4c3f-96e8-0882f2aec507", "value": "REIGN OF THUTMOSIS IV"}</skos:prefLabel>
+        <arches:sortorder xml:lang="el">{"id": "dba76b89-73ee-4682-9827-25cb09ac65ac", "value": "217"}</arches:sortorder>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+    <arches:sortorder xml:lang="el">{"id": "63390415-4a88-4cdf-aa85-2f99e74a803c", "value": "209"}</arches:sortorder>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/cbc0f3e5-bf9e-4a4b-a39d-9576a6bd4d3d">
+        <skos:prefLabel xml:lang="en">{"id": "998b6fef-ebb7-4928-8f7a-4ad7b532cb27", "value": "REIGN OF HOREMHEB"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <arches:sortorder xml:lang="en">{"id": "d0054557-0d26-40ad-8cf5-fc8f8d52f59d", "value": "223"}</arches:sortorder>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/f3d00796-88e5-40d6-88ee-0b6b496ea204">
+        <arches:sortorder xml:lang="el">{"id": "bc1fc544-6345-4b05-86d7-ead699477dcf", "value": "213"}</arches:sortorder>
+        <skos:prefLabel xml:lang="en">{"id": "68e65f16-1f44-49d4-a60a-13e5ead5c4ac", "value": "REIGN OF THUTMOSIS II"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/a6cc903c-7dce-4009-843f-09c1ef331512">
+        <arches:sortorder xml:lang="el">{"id": "c1262b28-437d-4b0a-84b5-8077d271e40f", "value": "220"}</arches:sortorder>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <skos:prefLabel xml:lang="en">{"id": "9e6b2cb0-f76a-4c59-81b0-d24a51e88ff8", "value": "REIGN OF SEMENHKHARA"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en">{"id": "18318a22-d882-473a-870d-58091fc397d8", "value": "18TH DYNASTY"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/88c3733a-08a0-44cd-9c16-5ff9153fd3c7">
+        <skos:prefLabel xml:lang="en">{"id": "f539aed2-4bd0-452e-ac87-cfae8d10a3c2", "value": "REIGN OF AMENHOTEP II"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <arches:sortorder xml:lang="el">{"id": "96c0deba-9165-4148-bf01-5658a67d41ac", "value": "216"}</arches:sortorder>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/75b6bcfc-765a-4ddf-83f5-62e3d55614e2">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <arches:sortorder xml:lang="el">{"id": "db28a3fb-63b4-4a9a-9a4f-481a2c0f0bde", "value": "219"}</arches:sortorder>
+        <skos:prefLabel xml:lang="en">{"id": "17fa7eee-57dd-40a5-85ce-47225cb7fe26", "value": "REIGN OF AMENHOTEP IV / AKHENATEN"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/ec1b5b8c-041c-49a3-a703-e5fef7093707">
+        <arches:sortorder xml:lang="el">{"id": "ce762aa2-e6a4-422a-b126-245b66b083d2", "value": "214"}</arches:sortorder>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <skos:prefLabel xml:lang="en">{"id": "d518df06-fa97-4c61-8d78-bce13935da55", "value": "REIGN OF THUTMOSIS III"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/2d80dc45-8662-45d9-80ce-0c6826abf83f">
+        <skos:prefLabel xml:lang="en">{"id": "06b6bf0a-d8c7-43f2-a923-9f28b24ba9f5", "value": "REIGN OF AMENHOTEP III"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <arches:sortorder xml:lang="el">{"id": "7758b150-0855-4309-9311-3033780f4d68", "value": "218"}</arches:sortorder>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/c444ed2f-bc36-4e84-8f54-4494fe5241a6">
+        <skos:prefLabel xml:lang="en">{"id": "57fbc3ae-6039-4dc5-a2bc-76fcc8ca9182", "value": "REIGN OF THUTMOSIS I"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <arches:sortorder xml:lang="el">{"id": "57056c4d-07c7-4d80-ba7f-7812938f34b3", "value": "212"}</arches:sortorder>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/73227515-6c2b-4286-b506-90573fa6b514">
+        <skos:prefLabel xml:lang="en">{"id": "d52834ce-b45a-4cf5-b2d6-5527c52c0507", "value": "REIGN OF TUTANKHAMEN"}</skos:prefLabel>
+        <arches:sortorder xml:lang="el">{"id": "8a1fc1d0-c574-4943-9350-8aa1fa07e536", "value": "221"}</arches:sortorder>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/a43f1b9f-725f-40e2-86c4-df80ec85a1e6">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <skos:prefLabel xml:lang="en">{"id": "2e158fc3-fdc0-4a5d-9e53-6bc52dbfb79b", "value": "REIGN OF HATSHEPSUT"}</skos:prefLabel>
+        <arches:sortorder xml:lang="el">{"id": "08056aba-1521-4dcc-9370-c15cbcda1b09", "value": "215"}</arches:sortorder>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/6ae138c8-add1-4dc5-9a26-59333b9e654d">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <arches:sortorder xml:lang="el">{"id": "daf2294d-6249-4ead-bb23-fd735e2152b7", "value": "211"}</arches:sortorder>
+        <skos:prefLabel xml:lang="en">{"id": "bf2c23ee-eb36-473f-a898-63cf5e63e37c", "value": "REIGN OF AMENHOTEP I"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/52fcfe3e-717d-41f0-844c-d01f1544146e">
+        <skos:prefLabel xml:lang="en">{"id": "b234d8c4-bb4b-4283-85c5-f23d0f1e5246", "value": "REIGN OF AHMOSE I"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <arches:sortorder xml:lang="el">{"id": "9f3f6bb4-9403-4f7c-94e2-468c361f4424", "value": "210"}</arches:sortorder>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/f63b3c52-cd86-48e2-9648-a7343bf48f8c">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <skos:prefLabel xml:lang="en">{"id": "a29d2bec-1afe-4cee-9843-aa23e8b5433a", "value": "REIGN OF AY"}</skos:prefLabel>
+        <arches:sortorder xml:lang="el">{"id": "3c7053b4-a4d5-43d0-8273-e1463377c768", "value": "222"}</arches:sortorder>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/9c544036-6729-44d8-a3e3-151230c138e5">
+    <skos:prefLabel xml:lang="en">{"id": "df61880c-6252-4dc5-a5a5-c69f455eb625", "value": "MAMLUK"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+    <arches:sortorder xml:lang="el">{"id": "e5a43cad-ad38-4110-8e9a-0922f3c0bf6c", "value": "257"}</arches:sortorder>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/d8274770-96ca-4e35-8108-b047d893d35c">
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+    <arches:sortorder xml:lang="el">{"id": "25b10255-ec33-44bb-8e61-51074be4b12c", "value": "206"}</arches:sortorder>
+    <skos:prefLabel xml:lang="en">{"id": "7ad4c98a-4eee-4220-a97c-937e696adac6", "value": "MIDDLE KINGDOM"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/ec126937-0485-4888-94f1-57bfc4a60b52">
+    <arches:sortorder xml:lang="el">{"id": "90c29c85-243d-4861-a8bf-8c2b8248bf67", "value": "235"}</arches:sortorder>
+    <skos:prefLabel xml:lang="en">{"id": "4cea5b55-c351-495a-be6b-b9ecd214180d", "value": "REIGN OF RAMESES III"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/f05670e4-7822-462d-98b7-d77d971d5f65">
+    <skos:prefLabel xml:lang="en">{"id": "4b52a570-32eb-429e-936c-f1dbe6e351c4", "value": "FATIMID"}</skos:prefLabel>
+    <arches:sortorder xml:lang="el">{"id": "6a37d464-0161-4975-bfc5-22d300010a34", "value": "255"}</arches:sortorder>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/166937e1-f574-47fb-a7ef-3c0654c5a9ec">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/ce013fa6-381e-4b7d-be18-fe163ee27c9b">
+        <arches:sortorder xml:lang="el">{"id": "c4747da1-f2dc-4e4d-b612-8a0a9d44bbd0", "value": "251"}</arches:sortorder>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <skos:prefLabel xml:lang="en">{"id": "7b4ed8e0-0eb4-4170-b3e6-19475cfc1abc", "value": "26TH DYNASTY"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+    <arches:sortorder xml:lang="el">{"id": "2181bdb9-fdc0-4650-b0a7-995006328d09", "value": "250"}</arches:sortorder>
+    <skos:prefLabel xml:lang="en">{"id": "446ee39b-062a-418d-92a8-9557f4f859d5", "value": "LATE PERIOD"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/2eae1aab-a019-481b-b24e-5a2bebf56c8c">
+    <arches:sortorder xml:lang="el">{"id": "0eadccfe-b343-4d3f-96b2-ff946b7991bf", "value": "231"}</arches:sortorder>
+    <skos:prefLabel xml:lang="en">{"id": "b6f9037c-8b94-4486-aa25-e910e8ca481f", "value": "REIGN OF SIPTAH"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/7624acf3-830c-41d1-b44d-12b3f563e936">
+    <arches:sortorder xml:lang="el">{"id": "c7754a7d-2f33-4ca7-b5ef-2b7d672b89aa", "value": "208"}</arches:sortorder>
+    <skos:narrower rdf:resource="http://www.archesproject.org/4492a6f6-b711-4e20-8d2c-1dccafec58c1"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/904de1ae-a0e9-4a8a-b018-ef231fd74867">
+        <skos:narrower rdf:resource="http://www.archesproject.org/a8b9cb65-8d9a-4304-b35c-0886e86ae909"/>
+        <skos:narrower rdf:resource="http://www.archesproject.org/03ded993-7d3f-40de-a542-e87a1d5975a1"/>
+        <skos:narrower rdf:resource="http://www.archesproject.org/84f2eb93-c70f-4886-88d9-19a7bb392e33"/>
+        <skos:narrower rdf:resource="http://www.archesproject.org/d14957bd-b0fb-4410-87ed-e55a54ae05ee"/>
+        <arches:sortorder xml:lang="el">{"id": "5ebf330a-b304-419c-bbb4-037f9ac0564d", "value": "233"}</arches:sortorder>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <skos:narrower rdf:resource="http://www.archesproject.org/39d2758f-97b0-4799-bb27-c211c0cdd385"/>
+        <skos:prefLabel xml:lang="en">{"id": "f6eb3416-8164-47ef-9f2e-1ba19c666b9a", "value": "20TH DYNASTY"}</skos:prefLabel>
+        <skos:narrower rdf:resource="http://www.archesproject.org/96109bcc-b2b4-4a8b-9b6c-a65bc5605953"/>
+        <skos:narrower rdf:resource="http://www.archesproject.org/ec126937-0485-4888-94f1-57bfc4a60b52"/>
+        <skos:narrower rdf:resource="http://www.archesproject.org/2e037ec2-2be8-4eb5-805c-d7f5223f8c9f"/>
+        <skos:narrower rdf:resource="http://www.archesproject.org/be871799-b17a-4b36-8f02-139ab5319c47"/>
+        <skos:narrower rdf:resource="http://www.archesproject.org/d8b04ecf-5bfa-42db-9664-6ebe9f5e8380"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en">{"id": "3b633f65-b38c-414d-9f1e-40a2381fe035", "value": "NEW KINGDOM"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/6af02aa6-d95a-4006-9218-064032d968e8">
+        <skos:narrower rdf:resource="http://www.archesproject.org/0262d045-fe94-490d-a862-2a8e7c317332"/>
+        <skos:narrower rdf:resource="http://www.archesproject.org/80acdd82-0879-49a2-8f2d-69389b6c33de"/>
+        <skos:narrower rdf:resource="http://www.archesproject.org/704590fc-844f-414e-a7b6-38ab3ac74512"/>
+        <arches:sortorder xml:lang="el">{"id": "75840117-ec45-473b-884d-9285dbd9dee3", "value": "224"}</arches:sortorder>
+        <skos:narrower rdf:resource="http://www.archesproject.org/b18edf38-b418-482a-b1e3-a3bb9a516fb1"/>
+        <skos:prefLabel xml:lang="en">{"id": "e7239c5e-71ef-4759-ac7a-396c7d1a8ce4", "value": "19TH DYNASTY"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <skos:narrower rdf:resource="http://www.archesproject.org/024bebfc-41ce-4c59-ba68-1150829f5c17"/>
+        <skos:narrower rdf:resource="http://www.archesproject.org/40c226f1-de24-4c5d-9b99-dc0336fde0d9"/>
+        <skos:narrower rdf:resource="http://www.archesproject.org/2eae1aab-a019-481b-b24e-5a2bebf56c8c"/>
+        <skos:narrower rdf:resource="http://www.archesproject.org/c649c92a-8546-4be9-abc8-8e37740b346d"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/bcf3b8ec-4632-45ae-b5fa-e188b22e1d18">
+    <skos:prefLabel xml:lang="en">{"id": "3cbe7f54-e338-4f4f-bf80-bc0c7e6062ff", "value": "OTTOMAN"}</skos:prefLabel>
+    <arches:sortorder xml:lang="el">{"id": "b8a0a1bf-a1a8-4779-a868-a1b5fbd2c4c6", "value": "258"}</arches:sortorder>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/c649c92a-8546-4be9-abc8-8e37740b346d">
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+    <skos:prefLabel xml:lang="en">{"id": "16593a20-5074-43f0-95f2-f2931f560671", "value": "REIGN OF MERENPTAH"}</skos:prefLabel>
+    <arches:sortorder xml:lang="el">{"id": "7a42eff6-f44c-47cc-a2a7-cffa9ec6d621", "value": "228"}</arches:sortorder>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/96109bcc-b2b4-4a8b-9b6c-a65bc5605953">
+    <skos:prefLabel xml:lang="en">{"id": "e5a0e0b3-bb53-4daa-9560-45771568eac0", "value": "REIGN OF RAMESES IV"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+    <arches:sortorder xml:lang="el">{"id": "9d42488a-0e18-4846-a8ed-71792541ef29", "value": "236"}</arches:sortorder>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/d775649e-1c24-4e76-ab28-9c42737e0856">
+    <arches:sortorder xml:lang="el">{"id": "38aa4da3-2335-47d7-b6db-65e41ef2e1bb", "value": "260"}</arches:sortorder>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+    <skos:prefLabel xml:lang="en">{"id": "d2581a54-6441-4e35-a94b-c3283921aac0", "value": "SULTANATE OF EGYPT"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/2e037ec2-2be8-4eb5-805c-d7f5223f8c9f">
+    <arches:sortorder xml:lang="el">{"id": "6fa323b1-afcd-4bc2-8f5b-bf8e6057a37d", "value": "240"}</arches:sortorder>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+    <skos:prefLabel xml:lang="en">{"id": "89bd1830-a637-4c4b-85ad-be2f57a01414", "value": "REIGN OF RAMESES VIII"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/0262d045-fe94-490d-a862-2a8e7c317332">
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+    <arches:sortorder xml:lang="el">{"id": "459f1e58-e05b-4848-82c1-b67eeb6e5442", "value": "226"}</arches:sortorder>
+    <skos:prefLabel xml:lang="en">{"id": "25f7f19e-b936-4394-b29d-86205c1b77fc", "value": "REIGN OF SETI I"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/d14957bd-b0fb-4410-87ed-e55a54ae05ee">
+    <arches:sortorder xml:lang="el">{"id": "0af70828-85a4-43ba-9d97-438a25719534", "value": "243"}</arches:sortorder>
+    <skos:prefLabel xml:lang="en">{"id": "b3c4059d-3980-4f27-aec6-d5a1e9511781", "value": "REIGN OF RAMESES XI"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/3640736d-0e53-46ad-a030-20aca16cd72e">
+    <skos:narrower rdf:resource="http://www.archesproject.org/166937e1-f574-47fb-a7ef-3c0654c5a9ec"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/7139fbdb-d581-4701-974b-184d87bdbb01">
+        <skos:prefLabel xml:lang="en">{"id": "d93bce6a-d1b1-4c3b-87ad-905c09093518", "value": "EARLY DYNASTIC"}</skos:prefLabel>
+        <arches:sortorder xml:lang="el">{"id": "66890d96-f3f8-4beb-bcde-990b9d50a29f", "value": "203"}</arches:sortorder>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/16013b54-a8e4-4832-972a-8b6e869aedcb">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <arches:sortorder xml:lang="el">{"id": "cd564f60-311e-484a-85e3-2e8dd5d0ba09", "value": "254"}</arches:sortorder>
+        <skos:prefLabel xml:lang="en">{"id": "0257ad4c-03d7-4d65-97bf-466309ee3fb7", "value": "ARAB"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/e8041019-1ef7-46ec-a168-1d517b5d8072">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <skos:prefLabel xml:lang="en">{"id": "44aa94fd-20e6-482b-9e12-ad81fa283d31", "value": "FIRST INTERMEDIATE"}</skos:prefLabel>
+        <arches:sortorder xml:lang="el">{"id": "9c03359b-aa77-4e5e-a761-6804de44f5a5", "value": "205"}</arches:sortorder>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/fd003e95-cd7c-4dd7-a37f-dd66bd14573f">
+        <skos:prefLabel xml:lang="en">{"id": "64005409-ceea-4726-b7ee-49b262768b4c", "value": "KINGDOM OF EGYPT"}</skos:prefLabel>
+        <arches:sortorder xml:lang="el">{"id": "59cb496c-1cf2-4a80-a172-d960cce3f765", "value": "261"}</arches:sortorder>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/3f3b8959-14a6-42e5-90ce-ca6c344237bc">
+        <arches:sortorder xml:lang="el">{"id": "4629415f-4cf2-455e-bbdc-5dd526f828bf", "value": "202"}</arches:sortorder>
+        <skos:prefLabel xml:lang="en">{"id": "b09af527-ecbf-408e-b586-8ee8a66dd724", "value": "PREHISTORIC &amp; PREDYNASTIC"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+    <skos:narrower rdf:resource="http://www.archesproject.org/9c544036-6729-44d8-a3e3-151230c138e5"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/d5277bb8-d238-4c0d-8a83-be3abba9222e">
+        <arches:sortorder xml:lang="el">{"id": "9b7137b7-2e27-445c-93b1-0942b6655c60", "value": "207"}</arches:sortorder>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <skos:prefLabel xml:lang="en">{"id": "cfa9522d-93bf-4bb0-b97b-ad1dfd03ecc9", "value": "SECOND INTERMEDIATE"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/86c004a5-4263-446d-9ba3-51c90c7ace67">
+        <skos:prefLabel xml:lang="en">{"id": "97ac54fc-4bda-48b0-87a6-c6b799952d3c", "value": "REPUBLIC OF EGYPT"}</skos:prefLabel>
+        <arches:sortorder xml:lang="el">{"id": "e71e85a7-3b7d-48b0-afa4-c3ed59f8568b", "value": "262"}</arches:sortorder>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/3afc6986-3729-45e4-bbd3-f42ce248429d">
+        <arches:sortorder xml:lang="el">{"id": "666dc222-0b84-4d7f-8741-23801d04aaea", "value": "256"}</arches:sortorder>
+        <skos:prefLabel xml:lang="en">{"id": "564b0a8a-92fc-42eb-92b3-2dc5db8232b2", "value": "AYYUBID"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+      </skos:Concept>
+    </skos:narrower>
+    <arches:sortorder xml:lang="el">{"id": "5d606b99-0db6-4f58-a6d4-3d2e39f54c30", "value": "201"}</arches:sortorder>
+    <skos:narrower rdf:resource="http://www.archesproject.org/c58dab86-454e-4723-be8f-505cb2d252b4"/>
+    <skos:narrower rdf:resource="http://www.archesproject.org/d775649e-1c24-4e76-ab28-9c42737e0856"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/ff9631fe-af25-423c-8752-616fe1a54e15">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <skos:prefLabel xml:lang="en">{"id": "51da703a-355f-430c-9ff4-63739711f3fa", "value": "BYZANTINE"}</skos:prefLabel>
+        <arches:sortorder xml:lang="el">{"id": "31cf076e-943b-4628-9c87-d198c1cb2249", "value": "253"}</arches:sortorder>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en">{"id": "65ad0b7b-6428-44e3-8c81-eac50fbdafea", "value": "CULTURAL PERIODS - EGYPT"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/f8b6566d-2962-43cb-8438-ac94aba3f052">
+        <arches:sortorder xml:lang="el">{"id": "c1492fc9-9a7d-41e1-9486-5a4df79a952d", "value": "204"}</arches:sortorder>
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <skos:prefLabel xml:lang="en">{"id": "08aa7e4c-988f-4fae-9f03-b0c1f60dd195", "value": "OLD KINGDOM"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/5c5074d6-569f-45eb-93c3-75894d80b333">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <skos:prefLabel xml:lang="en">{"id": "b9eab26a-8bfa-4cac-b638-089cb8c3aac8", "value": "MUHAMMAD ALI_KHEDIVATE"}</skos:prefLabel>
+        <arches:sortorder xml:lang="el">{"id": "0d9e0c50-61dc-4fa8-a250-23bba8231afd", "value": "259"}</arches:sortorder>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://www.archesproject.org/bcf3b8ec-4632-45ae-b5fa-e188b22e1d18"/>
+    <skos:narrower rdf:resource="http://www.archesproject.org/f05670e4-7822-462d-98b7-d77d971d5f65"/>
+    <skos:narrower rdf:resource="http://www.archesproject.org/d8274770-96ca-4e35-8108-b047d893d35c"/>
+    <skos:narrower rdf:resource="http://www.archesproject.org/7624acf3-830c-41d1-b44d-12b3f563e936"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://www.archesproject.org/0308eebb-cfdf-453f-851b-796d41081db5">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+        <arches:sortorder xml:lang="el">{"id": "f940294b-a726-4123-929c-4ec13860fa67", "value": "252"}</arches:sortorder>
+        <skos:prefLabel xml:lang="en">{"id": "379bc84b-6e7e-4c78-80b2-0ff0059da407", "value": "GRAECO-ROMAN"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/b18edf38-b418-482a-b1e3-a3bb9a516fb1">
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+    <skos:prefLabel xml:lang="en">{"id": "c5c843fc-f783-4fe1-97d3-fec14e469c01", "value": "REIGN OF TAUSERT"}</skos:prefLabel>
+    <arches:sortorder xml:lang="el">{"id": "abcc0a44-4d00-4c3e-ad38-0dbe0e06a5b2", "value": "232"}</arches:sortorder>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/03ded993-7d3f-40de-a542-e87a1d5975a1">
+    <arches:sortorder xml:lang="el">{"id": "cf875372-e818-4c1f-a228-c7152b37dac1", "value": "234"}</arches:sortorder>
+    <skos:prefLabel xml:lang="en">{"id": "8bd29a1a-92ba-41b3-8a0f-dd261f816cfd", "value": "REIGN OF SETNAKHT"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/39d2758f-97b0-4799-bb27-c211c0cdd385">
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+    <arches:sortorder xml:lang="el">{"id": "314a8ce5-aa48-40e6-9bde-e3c2bd265afe", "value": "242"}</arches:sortorder>
+    <skos:prefLabel xml:lang="en">{"id": "548d452f-3cf9-4f8a-a6a8-8dd8e13136db", "value": "REIGN OF RAMESES X"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/d8b04ecf-5bfa-42db-9664-6ebe9f5e8380">
+    <arches:sortorder xml:lang="el">{"id": "705a224f-a0b8-42db-a8b4-4dd8005fd158", "value": "241"}</arches:sortorder>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+    <skos:prefLabel xml:lang="en">{"id": "52d8d466-bdb4-450c-aae2-6e7c57625fe1", "value": "REIGN OF RAMESES IX"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/024bebfc-41ce-4c59-ba68-1150829f5c17">
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+    <arches:sortorder xml:lang="el">{"id": "1ffdd02d-d22e-466a-913c-683370847eaa", "value": "225"}</arches:sortorder>
+    <skos:prefLabel xml:lang="en">{"id": "590ba47a-e8f6-4b74-9c24-036f7b77f58f", "value": "REIGN OF RAMESES I"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/84f2eb93-c70f-4886-88d9-19a7bb392e33">
+    <arches:sortorder xml:lang="el">{"id": "63280644-7958-4edd-b047-5c61f0cf798b", "value": "238"}</arches:sortorder>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+    <skos:prefLabel xml:lang="en">{"id": "84005132-3964-4e6c-ad66-73651d1b4e73", "value": "REIGN OF RAMESES VI"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/40c226f1-de24-4c5d-9b99-dc0336fde0d9">
+    <arches:sortorder xml:lang="el">{"id": "d71b2f83-1b5d-4a63-a9e6-d179a0b4694e", "value": "229"}</arches:sortorder>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+    <skos:prefLabel xml:lang="en">{"id": "67cb232a-2264-48f3-be41-e669cc63f0cd", "value": "REIGN OF AMENMESES"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/a8b9cb65-8d9a-4304-b35c-0886e86ae909">
+    <skos:prefLabel xml:lang="en">{"id": "478204ab-7305-4360-9a59-7415190d8878", "value": "REIGN OF RAMESES VII"}</skos:prefLabel>
+    <arches:sortorder xml:lang="el">{"id": "cc0fcdd5-2ef7-4ecf-a700-a38daafaafe8", "value": "239"}</arches:sortorder>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/80acdd82-0879-49a2-8f2d-69389b6c33de">
+    <arches:sortorder xml:lang="el">{"id": "0cd92d00-e91c-455d-b893-23f7fb7ce6f5", "value": "230"}</arches:sortorder>
+    <skos:prefLabel xml:lang="en">{"id": "de11cc03-d5f6-4711-8c3a-cbc92b18be67", "value": "REIGN OF SETI II"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/be871799-b17a-4b36-8f02-139ab5319c47">
+    <arches:sortorder xml:lang="el">{"id": "ae66d574-65fa-48e8-a76b-90df7c5fffbf", "value": "237"}</arches:sortorder>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+    <skos:prefLabel xml:lang="en">{"id": "97174988-4f93-470e-9ffd-b43bb003f428", "value": "REIGN OF RAMESES V"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://www.archesproject.org/704590fc-844f-414e-a7b6-38ab3ac74512">
+    <arches:sortorder xml:lang="el">{"id": "1b0c2e47-3001-4800-bea1-a33d43b946ff", "value": "227"}</arches:sortorder>
+    <skos:inScheme rdf:resource="http://www.archesproject.org/666c7f1e-f49a-46bc-8f59-09ac43bc4859"/>
+    <skos:prefLabel xml:lang="en">{"id": "cd4101af-8200-4b12-b7bc-0d4a65888aee", "value": "REIGN OF RAMESES II"}</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>
