@@ -3655,9 +3655,6 @@
                                                 }, 
                                                 "b3dd2951-0de1-11e8-ae2d-02b2d3297e3a": {
                                                     "label": "Heritage Resource Type From Date"
-                                                }, 
-                                                "b3dd2953-0de1-11e8-ae2d-02b2d3297e3a": {
-                                                    "label": "Heritage Resource Use Type"
                                                 }
                                             }
                                         }, 
@@ -3665,9 +3662,6 @@
                                             "cards": {}, 
                                             "label": "Style", 
                                             "nodes": {
-                                                "b3dd2926-0de1-11e8-ae2d-02b2d3297e3a": {
-                                                    "label": "Style Use Type"
-                                                }, 
                                                 "b3dd2932-0de1-11e8-ae2d-02b2d3297e3a": {
                                                     "label": "Style To Date"
                                                 }, 
@@ -3688,9 +3682,6 @@
                                             "nodes": {
                                                 "b3dd292a-0de1-11e8-ae2d-02b2d3297e3a": {
                                                     "label": "Ancilary Feature To Date"
-                                                }, 
-                                                "b3dd292b-0de1-11e8-ae2d-02b2d3297e3a": {
-                                                    "label": "Ancillary Feature Use Type"
                                                 }, 
                                                 "b3dd2935-0de1-11e8-ae2d-02b2d3297e3a": {
                                                     "label": "Ancillary Feature Type"
