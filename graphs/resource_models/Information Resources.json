@@ -893,16 +893,6 @@
             "functions_x_graphs": [
                 {
                     "config": {
-                        "triggering_nodegroups": [
-                            "6b371a7a-e505-11e7-b2cc-02e0c6d7ad7a"
-                        ]
-                    }, 
-                    "function_id": "60000000-0000-0000-0000-000000000000", 
-                    "graph_id": "6b371a4c-e505-11e7-b2cc-02e0c6d7ad7a", 
-                    "id": "490031d1-e775-11e7-ae2d-02b2d3297e3a"
-                }, 
-                {
-                    "config": {
                         "description": {
                             "nodegroup_id": "6b371a6b-e505-11e7-b2cc-02e0c6d7ad7a", 
                             "string_template": "<Description>"
