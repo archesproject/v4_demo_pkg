@@ -326,6 +326,13 @@
             "export": false
         }, 
         {
+            "arches_nodeid": "ce1a2269-18cb-11e8-ae2d-02b2d3297e3a", 
+            "arches_node_name": "Reference Image", 
+            "file_field_name": "PHOTO", 
+            "data_type": "file-list", 
+            "export": false
+        }, 
+        {
             "arches_nodeid": "b3dd28f1-0de1-11e8-ae2d-02b2d3297e3a", 
             "arches_node_name": "Resource Type Classification", 
             "file_field_name": "RESOURCE_TYPE_CLASSIFICATION_E55", 

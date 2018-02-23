@@ -5,7 +5,7 @@
         {
             "arches_nodeid": "23a06a7a-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Address Type", 
-            "file_field_name": "ADDRESS_TYPE_E55", 
+            "file_field_name": "Address Type", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
@@ -13,14 +13,14 @@
         {
             "arches_nodeid": "23a06a91-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Administrative Subdivision Name", 
-            "file_field_name": "ADMINISTRATIVE_SUBDIVISION_E48", 
+            "file_field_name": "Administrative Subdivision Name", 
             "data_type": "string", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06ab2-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Administrative Subdivision Type", 
-            "file_field_name": "ADMINISTRATIVE_SUBDIVISION_TYPE_E55", 
+            "file_field_name": "Administrative Subdivision Type", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
@@ -28,14 +28,14 @@
         {
             "arches_nodeid": "23a06ab5-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Ancilary Feature To Date", 
-            "file_field_name": "", 
+            "file_field_name": "Ancilary Feature To Date", 
             "data_type": "date", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06aae-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Ancillary Feature Cultural Period", 
-            "file_field_name": "", 
+            "file_field_name": "Ancillary Feature Cultural Period", 
             "data_type": "concept-list", 
             "concept_export_value": "label", 
             "export": false
@@ -43,14 +43,14 @@
         {
             "arches_nodeid": "23a06aa8-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Ancillary Feature From Date", 
-            "file_field_name": "", 
+            "file_field_name": "Ancillary Feature From Date", 
             "data_type": "date", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06aa0-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Ancillary Feature Type", 
-            "file_field_name": "ANCILLARY_FEATURE_TYPE_E55", 
+            "file_field_name": "Ancillary Feature Type", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
@@ -58,7 +58,7 @@
         {
             "arches_nodeid": "23a06a90-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Ancillary Feature Use Type", 
-            "file_field_name": "", 
+            "file_field_name": "Ancillary Feature Use Type", 
             "data_type": "concept-list", 
             "concept_export_value": "label", 
             "export": false
@@ -66,14 +66,14 @@
         {
             "arches_nodeid": "23a06a68-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Cadastral Reference", 
-            "file_field_name": "", 
+            "file_field_name": "Cadastral Reference", 
             "data_type": "string", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06aaf-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Component Type", 
-            "file_field_name": "COMPONENT_TYPE_E55", 
+            "file_field_name": "Component Type", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
@@ -81,21 +81,21 @@
         {
             "arches_nodeid": "23a06a8b-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Condition Description", 
-            "file_field_name": "CONDITION_DESCRIPTION_E62", 
+            "file_field_name": "Condition Description", 
             "data_type": "string", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06a81-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Condition Image", 
-            "file_field_name": "", 
+            "file_field_name": "Condition Image", 
             "data_type": "file-list", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06a8a-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Condition Type", 
-            "file_field_name": "CONDITION_DESCRIPTION_E62", 
+            "file_field_name": "Condition Type", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
@@ -103,7 +103,7 @@
         {
             "arches_nodeid": "23a06a93-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Construction Technique", 
-            "file_field_name": "CONSTRUCTION_TECHNIQUE_E55", 
+            "file_field_name": "Construction Technique", 
             "data_type": "concept-list", 
             "concept_export_value": "label", 
             "export": false
@@ -111,28 +111,28 @@
         {
             "arches_nodeid": "23a06a9e-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Date Condition Assessed", 
-            "file_field_name": "DATE_CONDITION_ASSESSED_E49", 
+            "file_field_name": "Date Condition Assessed", 
             "data_type": "date", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06ab0-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Date Evaluated", 
-            "file_field_name": "DATE_EVALUATED_E49", 
+            "file_field_name": "Date Evaluated", 
             "data_type": "date", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06a87-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Description", 
-            "file_field_name": "DESCRIPTION_E62", 
+            "file_field_name": "Description", 
             "data_type": "string", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06aa3-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Description Type", 
-            "file_field_name": "DESCRIPTION_TYPE_E55", 
+            "file_field_name": "Description Type", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
@@ -140,21 +140,21 @@
         {
             "arches_nodeid": "23a06a7c-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Designation or Protection From Date", 
-            "file_field_name": "DESIGNATION_OR_PROTECTION_FROM_DATE_E49", 
+            "file_field_name": "Designation or Protection From Date", 
             "data_type": "date", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06aad-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Designation or Protection To Date", 
-            "file_field_name": "", 
+            "file_field_name": "Designation or Protection To Date", 
             "data_type": "date", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06ab3-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Disturbance Type", 
-            "file_field_name": "", 
+            "file_field_name": "Disturbance Type", 
             "data_type": "concept-list", 
             "concept_export_value": "label", 
             "export": false
@@ -162,14 +162,14 @@
         {
             "arches_nodeid": "23a06ab6-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "End Date of Existence", 
-            "file_field_name": "END_DATE_OF_EXISTENCE_E49", 
+            "file_field_name": "End Date of Existence", 
             "data_type": "date", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06aab-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "End Date Type", 
-            "file_field_name": "END_OF_EXISTENCE_TYPE_E55", 
+            "file_field_name": "End Date Type", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
@@ -177,7 +177,7 @@
         {
             "arches_nodeid": "23a06aa2-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "External Identifier Type", 
-            "file_field_name": "", 
+            "file_field_name": "External Identifier Type", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
@@ -185,7 +185,7 @@
         {
             "arches_nodeid": "23a06abc-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "External Source", 
-            "file_field_name": "EXTERNAL_XREF_TYPE_E55", 
+            "file_field_name": "External Source", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
@@ -193,14 +193,14 @@
         {
             "arches_nodeid": "23a06a6e-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "External XRef", 
-            "file_field_name": "EXTERNAL_XREF_E42", 
+            "file_field_name": "External XRef", 
             "data_type": "string", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06a80-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Geometry Qualifier", 
-            "file_field_name": "GEOMETRY_QUALIFIER_E55", 
+            "file_field_name": "Geometry Qualifier", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
@@ -208,7 +208,7 @@
         {
             "arches_nodeid": "23a06a8c-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Heritage Resource Type", 
-            "file_field_name": "HERITAGE_RESOURCE_TYPE_E55", 
+            "file_field_name": "Heritage Resource Type", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
@@ -216,7 +216,7 @@
         {
             "arches_nodeid": "23a06a92-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Heritage Resource Type Cultural Period", 
-            "file_field_name": "CULTURAL_PERIOD_E55", 
+            "file_field_name": "Heritage Resource Type Cultural Period", 
             "data_type": "concept-list", 
             "concept_export_value": "label", 
             "export": false
@@ -224,21 +224,21 @@
         {
             "arches_nodeid": "23a06a96-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Heritage Resource Type From Date", 
-            "file_field_name": "FROM_DATE_E49", 
+            "file_field_name": "Heritage Resource Type From Date", 
             "data_type": "date", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06a99-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Heritage Resource Type To Date", 
-            "file_field_name": "TO_DATE_E49", 
+            "file_field_name": "Heritage Resource Type To Date", 
             "data_type": "date", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06ab9-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Heritage Resource Use Type", 
-            "file_field_name": "HERITAGE_RESOURCE_USE_TYPE_E55", 
+            "file_field_name": "Heritage Resource Use Type", 
             "data_type": "concept-list", 
             "concept_export_value": "label", 
             "export": false
@@ -246,7 +246,7 @@
         {
             "arches_nodeid": "23a06a35-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Integrity Type", 
-            "file_field_name": "INTEGRITY_TYPE_E55", 
+            "file_field_name": "Integrity Type", 
             "data_type": "concept-list", 
             "concept_export_value": "label", 
             "export": false
@@ -254,7 +254,7 @@
         {
             "arches_nodeid": "23a06a4a-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Keyword", 
-            "file_field_name": "KEYWORD_E55", 
+            "file_field_name": "Keyword", 
             "data_type": "concept-list", 
             "concept_export_value": "label", 
             "export": false
@@ -262,14 +262,14 @@
         {
             "arches_nodeid": "23a06aa1-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Management Recommendation", 
-            "file_field_name": "MANAGEMENT_RECOMMENDATION_E89", 
+            "file_field_name": "Management Recommendation", 
             "data_type": "string", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06a8d-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Material", 
-            "file_field_name": "MATERIAL_E57", 
+            "file_field_name": "Material", 
             "data_type": "concept-list", 
             "concept_export_value": "label", 
             "export": false
@@ -277,7 +277,7 @@
         {
             "arches_nodeid": "23a06aa4-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Measurement Type", 
-            "file_field_name": "", 
+            "file_field_name": "Measurement Type", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
@@ -285,7 +285,7 @@
         {
             "arches_nodeid": "23a06a7d-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Measurement Unit", 
-            "file_field_name": "UNIT_OF_MEASUREMENT_E55", 
+            "file_field_name": "Measurement Unit", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
@@ -293,28 +293,28 @@
         {
             "arches_nodeid": "23a06ab4-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Measurement Value", 
-            "file_field_name": "VALUE_OF_MEASUREMENT_E60", 
+            "file_field_name": "Measurement Value", 
             "data_type": "number", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06a9b-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Modification Date", 
-            "file_field_name": "", 
+            "file_field_name": "Modification Date", 
             "data_type": "date", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06aa7-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Modification Description", 
-            "file_field_name": "MODIFICATION_DESCRIPTION_E62", 
+            "file_field_name": "Modification Description", 
             "data_type": "string", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06a83-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Modification Type", 
-            "file_field_name": "MODIFICATION_TYPE_E55", 
+            "file_field_name": "Modification Type", 
             "data_type": "concept-list", 
             "concept_export_value": "label", 
             "export": false
@@ -322,14 +322,14 @@
         {
             "arches_nodeid": "23a06a32-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Name", 
-            "file_field_name": "NAME_E41", 
+            "file_field_name": "Name", 
             "data_type": "string", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06a82-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Name Type", 
-            "file_field_name": "NAME_TYPE_E55", 
+            "file_field_name": "Name Type", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
@@ -337,50 +337,57 @@
         {
             "arches_nodeid": "23a06a7e-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Period of Significance From Date", 
-            "file_field_name": "PERIOD_OF_SIGNIFICANCE_FROM_DATE_E49", 
+            "file_field_name": "Period of Significance From Date", 
             "data_type": "date", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06a94-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Period of Significance To Date", 
-            "file_field_name": "PERIOD_OF_SIGNIFICANCE_TO_DATE_E49", 
+            "file_field_name": "Period of Significance To Date", 
             "data_type": "date", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06a20-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Place Address", 
-            "file_field_name": "PLACE_ADDRESS_E45", 
+            "file_field_name": "Place Address", 
             "data_type": "string", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06a97-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Place Description", 
-            "file_field_name": "DESCRIPTION_OF_LOCATION_E62", 
+            "file_field_name": "Place Description", 
             "data_type": "string", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06a3e-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Reasons", 
-            "file_field_name": "REASONS_E62", 
+            "file_field_name": "Reasons", 
             "data_type": "string", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06abb-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Recommendation Type", 
-            "file_field_name": "RECOMMENDATION_TYPE_E55", 
+            "file_field_name": "Recommendation Type", 
             "data_type": "concept-list", 
             "concept_export_value": "label", 
             "export": false
         }, 
         {
+            "arches_nodeid": "1f2a4a11-18cd-11e8-ae2d-02b2d3297e3a", 
+            "arches_node_name": "Reference Image", 
+            "file_field_name": "PHOTO", 
+            "data_type": "file-list", 
+            "export": false
+        }, 
+        {
             "arches_nodeid": "23a06a44-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Resource Type Classification", 
-            "file_field_name": "RESOURCE_TYPE_CLASSIFICATION_E55", 
+            "file_field_name": "Resource Type Classification", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
@@ -388,7 +395,7 @@
         {
             "arches_nodeid": "23a06a50-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Setting Type", 
-            "file_field_name": "SETTING_TYPE_E55", 
+            "file_field_name": "Setting Type", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
@@ -396,21 +403,21 @@
         {
             "arches_nodeid": "23a06a5f-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Spatial Coordinates Geometry", 
-            "file_field_name": "SPATIAL_COORDINATES_GEOMETRY_E47", 
+            "file_field_name": "Spatial Coordinates Geometry", 
             "data_type": "geojson-feature-collection", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06ab8-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Start Date of Existence", 
-            "file_field_name": "START_DATE_OF_EXISTENCE_E49", 
+            "file_field_name": "Start Date of Existence", 
             "data_type": "date", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06aba-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Start Date Type", 
-            "file_field_name": "BEGINNING_OF_EXISTENCE_TYPE_E55", 
+            "file_field_name": "Start Date Type", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
@@ -418,7 +425,7 @@
         {
             "arches_nodeid": "23a06a6b-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Status", 
-            "file_field_name": "STATUS_E55", 
+            "file_field_name": "Status", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
@@ -426,7 +433,7 @@
         {
             "arches_nodeid": "23a06a95-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Style", 
-            "file_field_name": "STYLE_E55", 
+            "file_field_name": "Style", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
@@ -434,7 +441,7 @@
         {
             "arches_nodeid": "23a06aa5-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Style Cultural Period", 
-            "file_field_name": "", 
+            "file_field_name": "Style Cultural Period", 
             "data_type": "concept-list", 
             "concept_export_value": "label", 
             "export": false
@@ -442,21 +449,21 @@
         {
             "arches_nodeid": "23a06a7f-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Style From Date", 
-            "file_field_name": "", 
+            "file_field_name": "Style From Date", 
             "data_type": "date", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06a9c-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Style To Date", 
-            "file_field_name": "", 
+            "file_field_name": "Style To Date", 
             "data_type": "date", 
             "export": false
         }, 
         {
             "arches_nodeid": "23a06a84-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Style Use Type", 
-            "file_field_name": "", 
+            "file_field_name": "Style Use Type", 
             "data_type": "concept-list", 
             "concept_export_value": "label", 
             "export": false
@@ -464,7 +471,7 @@
         {
             "arches_nodeid": "23a06ab7-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Threat Type", 
-            "file_field_name": "", 
+            "file_field_name": "Threat Type", 
             "data_type": "concept-list", 
             "concept_export_value": "label", 
             "export": false
@@ -472,7 +479,7 @@
         {
             "arches_nodeid": "23a06a8f-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Type of Designation or Protection", 
-            "file_field_name": "TYPE_OF_DESIGNATION_OR_PROTECTION_E55", 
+            "file_field_name": "Type of Designation or Protection", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
