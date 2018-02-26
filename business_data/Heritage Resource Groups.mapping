@@ -291,7 +291,7 @@
         {
             "arches_nodeid": "5f1b1810-e506-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Period of Significance From Date", 
-            "file_field_name": "PPERIOD_OF_SIGNIFICANCE_FROM_DATE_E49", 
+            "file_field_name": "PERIOD_OF_SIGNIFICANCE_FROM_DATE_E49", 
             "data_type": "date", 
             "export": false
         }, 
