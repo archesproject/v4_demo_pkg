@@ -320,7 +320,7 @@
     <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/fe0b105a-d417-44c2-bee2-7ffcb10bc811">
-        <skos:definition xml:lang="en-US">{"id": "578f1f97-8412-4174-b3d9-9a70a6fe07b3", "value": "Determined ineligible for NR by consensus through Section 106 process \u2013 Not evaluated for CR or Local Listing."}</skos:definition>
+        <skos:definition xml:lang="en-US">{"id": "578f1f97-8412-4174-b3d9-9a70a6fe07b3", "value": "Determined ineligible for NR by consensus through Section 106 process - Not evaluated for CR or Local Listing."}</skos:definition>
         <dcterms:identifier xml:lang="en-US">{"id": "ea7317a7-8dc1-44a3-bab9-342d4811a6a1", "value": "http://www.archesproject.org/fe0b105a-d417-44c2-bee2-7ffcb10bc811"}</dcterms:identifier>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <skos:prefLabel xml:lang="en-US">{"id": "4f937f6a-400e-4791-88fb-ec67bbdabead", "value": "6Y"}</skos:prefLabel>
@@ -339,7 +339,7 @@
         <skos:prefLabel xml:lang="en-US">{"id": "efc8a70e-8e55-4586-9f90-51aef0966099", "value": "7W"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "99c3feba-d1d1-45d1-b9d8-7bfe274d8fd6", "value": "http://www.archesproject.org/1809f922-a811-442f-89e8-c2201a0ba206"}</dcterms:identifier>
-        <skos:definition xml:lang="en-US">{"id": "1638de5d-9e35-42cd-ab9c-f09a6510002d", "value": "Submitted to OHP for action \u2013 withdrawn."}</skos:definition>
+        <skos:definition xml:lang="en-US">{"id": "1638de5d-9e35-42cd-ab9c-f09a6510002d", "value": "Submitted to OHP for action - withdrawn."}</skos:definition>
       </skos:Concept>
     </skos:narrower>
     <skos:narrower>
@@ -353,7 +353,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/8ae517b3-8a20-44cb-adb1-1df88c1f6ee2">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:definition xml:lang="en-US">{"id": "37fcdb3d-5e4b-484a-ad55-bbd2d1b77819", "value": "State Historical Landmarks 1-769 and Points of Historical Interest designated prior to January 1998 \u2013 Needs to be reevaluated using current standards."}</skos:definition>
+        <skos:definition xml:lang="en-US">{"id": "37fcdb3d-5e4b-484a-ad55-bbd2d1b77819", "value": "State Historical Landmarks 1-769 and Points of Historical Interest designated prior to January 1998 - Needs to be reevaluated using current standards."}</skos:definition>
         <skos:prefLabel xml:lang="en-US">{"id": "fb61ce98-eaab-4256-9874-395b6f1dc466", "value": "7L"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "57b3533e-d833-4b27-97aa-192bfdcc7900", "value": "http://www.archesproject.org/8ae517b3-8a20-44cb-adb1-1df88c1f6ee2"}</dcterms:identifier>
       </skos:Concept>
@@ -385,7 +385,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/647792ba-9ed7-490a-a84f-1383d7342fa8">
         <skos:prefLabel xml:lang="en-US">{"id": "ca3337b2-429d-4ec4-a0de-4f68a5d57611", "value": "7N1"}</skos:prefLabel>
-        <skos:definition xml:lang="en-US">{"id": "ffbcc2d9-03c9-4b2d-9d53-42448d2eee79", "value": "Needs to be reevaluated (Formerly NR SC4) \u2013 may become eligible for NR w/restoration or when meets other specific conditions."}</skos:definition>
+        <skos:definition xml:lang="en-US">{"id": "ffbcc2d9-03c9-4b2d-9d53-42448d2eee79", "value": "Needs to be reevaluated (Formerly NR SC4) - may become eligible for NR w/restoration or when meets other specific conditions."}</skos:definition>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "2d162d87-8027-4870-8729-6af48a77fe29", "value": "http://www.archesproject.org/647792ba-9ed7-490a-a84f-1383d7342fa8"}</dcterms:identifier>
       </skos:Concept>
@@ -514,7 +514,7 @@
     </skos:narrower>
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/a0043c23-2551-45de-91a6-8a77c811499e">
-        <skos:prefLabel xml:lang="en-US">{"id": "d38f1902-3cec-479a-b5b6-4c2674fc29ae", "value": "May be associated with an individual important in Eagle Rock\u2019s ethnic or women\u2019s history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "d38f1902-3cec-479a-b5b6-4c2674fc29ae", "value": "May be associated with an individual important in Eagle Rock's ethnic or women's history"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "e8a68dfb-9256-47a8-8224-f46bfdc7feff", "value": "http://www.archesproject.org/a0043c23-2551-45de-91a6-8a77c811499e"}</dcterms:identifier>
       </skos:Concept>
@@ -781,7 +781,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/acaee553-1b84-4419-bc43-cf77a19b1ed8">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "8392b56b-1b2d-418f-b53d-1ddcdaa16690", "value": "Parapet capping the fa\u00e7ade"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "8392b56b-1b2d-418f-b53d-1ddcdaa16690", "value": "Parapet capping the facade"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "4273e903-9393-4dc4-8091-c1bb7b8c8ce8", "value": "http://www.archesproject.org/acaee553-1b84-4419-bc43-cf77a19b1ed8"}</dcterms:identifier>
       </skos:Concept>
     </skos:narrower>
@@ -1060,7 +1060,7 @@
     </skos:narrower>
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/00a29499-6493-418f-9613-e3b1e271263f">
-        <skos:prefLabel xml:lang="en-US">{"id": "4988165f-3ce0-43fc-b939-78162ca40ecc", "value": "Asymmetrical or symmetrical fa\u00e7ade design"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "4988165f-3ce0-43fc-b939-78162ca40ecc", "value": "Asymmetrical or symmetrical facade design"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "b577aa40-e7f5-4615-aa01-c694704986a7", "value": "http://www.archesproject.org/00a29499-6493-418f-9613-e3b1e271263f"}</dcterms:identifier>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
       </skos:Concept>
@@ -1082,7 +1082,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/f65cc03d-ae16-4264-9f1d-c89b55eaa408">
         <dcterms:identifier xml:lang="en-US">{"id": "2fd415cd-f0b2-4d11-86ac-b41b74eb4199", "value": "http://www.archesproject.org/f65cc03d-ae16-4264-9f1d-c89b55eaa408"}</dcterms:identifier>
-        <skos:prefLabel xml:lang="en-US">{"id": "a14828dd-2e2a-40a1-8cad-2543b737d2d1", "value": "May be associated with an individual important in Tujunga\u2019s ethnic or women\u2019s history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "a14828dd-2e2a-40a1-8cad-2543b737d2d1", "value": "May be associated with an individual important in Tujunga's ethnic or women's history"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
       </skos:Concept>
     </skos:narrower>
@@ -2118,7 +2118,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/1ad10aea-090a-4672-8c77-a6a80214a3f6">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "a73eb140-a34e-4fba-a8b9-393d4216297d", "value": "May be associated with an individual important in Sawtelle\u2019s ethnic or women\u2019s history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "a73eb140-a34e-4fba-a8b9-393d4216297d", "value": "May be associated with an individual important in Sawtelle's ethnic or women's history"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "32ce9150-0796-4455-8819-6f7186dbb650", "value": "http://www.archesproject.org/1ad10aea-090a-4672-8c77-a6a80214a3f6"}</dcterms:identifier>
       </skos:Concept>
     </skos:narrower>
@@ -2265,7 +2265,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/6f36df60-f89e-4356-9f99-f4823f37cdff">
         <dcterms:identifier xml:lang="en-US">{"id": "6187cfea-732e-48b0-9c66-0229bdb3f41f", "value": "http://www.archesproject.org/6f36df60-f89e-4356-9f99-f4823f37cdff"}</dcterms:identifier>
-        <skos:prefLabel xml:lang="en-US">{"id": "cdd3ea31-290c-46d9-8d46-71ce6f928cea", "value": "May be associated with ethnic, cultural, women\u2019s or LGBT groups"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "cdd3ea31-290c-46d9-8d46-71ce6f928cea", "value": "May be associated with ethnic, cultural, women's or LGBT groups"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
       </skos:Concept>
     </skos:narrower>
@@ -2763,7 +2763,7 @@
       <skos:Concept rdf:about="http://www.archesproject.org/2965a856-c62d-4ce4-8ba7-3e2ebafb61e2">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "630d4eea-f9df-482d-bd95-dc3ea325b537", "value": "http://www.archesproject.org/2965a856-c62d-4ce4-8ba7-3e2ebafb61e2"}</dcterms:identifier>
-        <skos:prefLabel xml:lang="en-US">{"id": "cb011663-8f8f-42ae-9eee-a4386a3380ed", "value": "Espada\u00f1as, bell towers, and domes"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "cb011663-8f8f-42ae-9eee-a4386a3380ed", "value": "Espadanas, bell towers, and domes"}</skos:prefLabel>
       </skos:Concept>
     </skos:narrower>
     <skos:narrower>
@@ -2852,7 +2852,7 @@
     </skos:narrower>
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/e1c85422-a04e-4785-bd52-dd7f16a5c6d6">
-        <skos:prefLabel xml:lang="en-US">{"id": "8f54ab4d-2bff-45af-a854-421c44862e0b", "value": "Rounded corners and curved surfaces, emulating a \u201cwindswept\u201d appearance"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "8f54ab4d-2bff-45af-a854-421c44862e0b", "value": "Rounded corners and curved surfaces, emulating a \"windswept\" appearance"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "45e6a57a-29f5-4be8-8f9d-2d7f9b794a4c", "value": "http://www.archesproject.org/e1c85422-a04e-4785-bd52-dd7f16a5c6d6"}</dcterms:identifier>
       </skos:Concept>
@@ -3056,7 +3056,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/24a28414-672d-4980-8f6d-73d930db9791">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "5666ff35-2c71-468a-9f38-7d6bd9ca094c", "value": "May be associated with an individual important in San Pedro\u2019s ethnic or women\u2019s history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "5666ff35-2c71-468a-9f38-7d6bd9ca094c", "value": "May be associated with an individual important in San Pedro's ethnic or women's history"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "e6e014a5-554a-4da6-9d0e-9be2bebd345f", "value": "http://www.archesproject.org/24a28414-672d-4980-8f6d-73d930db9791"}</dcterms:identifier>
       </skos:Concept>
     </skos:narrower>
@@ -3146,7 +3146,7 @@
     </skos:narrower>
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/09cbc502-82aa-4ff2-8376-43f40f8c3007">
-        <skos:prefLabel xml:lang="en-US">{"id": "198e1979-4fd5-4b94-ba46-df87e06a3f72", "value": "May be associated with an individual important in Hyde Park\u2019s ethnic or women\u2019s history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "198e1979-4fd5-4b94-ba46-df87e06a3f72", "value": "May be associated with an individual important in Hyde Park's ethnic or women's history"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "7000665e-8c56-4d99-9e83-406b57044c90", "value": "http://www.archesproject.org/09cbc502-82aa-4ff2-8376-43f40f8c3007"}</dcterms:identifier>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
       </skos:Concept>
@@ -3356,7 +3356,7 @@
     </skos:narrower>
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/bf4e9f3a-b294-4764-8864-d47bacbf2781">
-        <skos:prefLabel xml:lang="en-US">{"id": "9d62d262-0c54-444a-9b97-3124cb33675d", "value": "If Airplane, then has a \u201cpop up\u201d second story with one or two rooms"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "9d62d262-0c54-444a-9b97-3124cb33675d", "value": "If Airplane, then has a \"pop up\" second story with one or two rooms"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "ddf11ac8-4639-4bcd-a95d-43f0d60d1d76", "value": "http://www.archesproject.org/bf4e9f3a-b294-4764-8864-d47bacbf2781"}</dcterms:identifier>
       </skos:Concept>
@@ -3497,7 +3497,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/85e71846-9664-4351-b220-1b35bef5f0c0">
         <dcterms:identifier xml:lang="en-US">{"id": "54458a1a-482c-4209-adcb-bc77c6f33256", "value": "http://www.archesproject.org/85e71846-9664-4351-b220-1b35bef5f0c0"}</dcterms:identifier>
-        <skos:prefLabel xml:lang="en-US">{"id": "3b0bb867-54aa-43f6-8213-0b2a0f622b5c", "value": "Design schemes are typ. informal and may include examples of mature vegetation in activity areas, paved paths, commemorative statuary and monuments, entrance signage, ornamental planting beds, all\u00e9es, and concentrations of a particular species"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "3b0bb867-54aa-43f6-8213-0b2a0f622b5c", "value": "Design schemes are typ. informal and may include examples of mature vegetation in activity areas, paved paths, commemorative statuary and monuments, entrance signage, ornamental planting beds, allees, and concentrations of a particular species"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
       </skos:Concept>
     </skos:narrower>
@@ -3526,7 +3526,7 @@
       <skos:Concept rdf:about="http://www.archesproject.org/d5d4f71e-8d94-4aa6-ba13-ee73bd98f5b5">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "3feaf249-009e-460c-86d2-94f8e37b9aad", "value": "http://www.archesproject.org/d5d4f71e-8d94-4aa6-ba13-ee73bd98f5b5"}</dcterms:identifier>
-        <skos:prefLabel xml:lang="en-US">{"id": "35f3dc9e-48d3-48b9-a77b-477e93c24124", "value": "May be associated with groups important in Hyde Park\u2019s early ethnic history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "35f3dc9e-48d3-48b9-a77b-477e93c24124", "value": "May be associated with groups important in Hyde Park's early ethnic history"}</skos:prefLabel>
       </skos:Concept>
     </skos:narrower>
     <skos:narrower>
@@ -3680,7 +3680,7 @@
       <skos:Concept rdf:about="http://www.archesproject.org/745aaec4-da91-45a6-92dc-48a87de45bd0">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "b60faacf-5228-43c5-a20a-52740d417932", "value": "http://www.archesproject.org/745aaec4-da91-45a6-92dc-48a87de45bd0"}</dcterms:identifier>
-        <skos:prefLabel xml:lang="en-US">{"id": "8bdec1a2-5f1c-4637-9bcf-3d4b36a97266", "value": "More expressive examples may feature accents of brick, wood or stone; and applied ornamentation on the street fa\u00e7ade, such as geometric metal fixtures, or the building name or address in plywood script"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "8bdec1a2-5f1c-4637-9bcf-3d4b36a97266", "value": "More expressive examples may feature accents of brick, wood or stone; and applied ornamentation on the street facade, such as geometric metal fixtures, or the building name or address in plywood script"}</skos:prefLabel>
       </skos:Concept>
     </skos:narrower>
     <skos:narrower>
@@ -3798,7 +3798,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/9230bfaf-9960-4022-9c7b-e1a1f7b35116">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "ba5e6812-f9d5-4d4c-91b3-5911c0d96429", "value": "May be associated with groups important in Eagle Rock\u2019s early ethnic history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "ba5e6812-f9d5-4d4c-91b3-5911c0d96429", "value": "May be associated with groups important in Eagle Rock's early ethnic history"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "4b6b1e22-339c-4edc-8038-bf7fe5a86b68", "value": "http://www.archesproject.org/9230bfaf-9960-4022-9c7b-e1a1f7b35116"}</dcterms:identifier>
       </skos:Concept>
     </skos:narrower>
@@ -4051,7 +4051,7 @@
       <skos:Concept rdf:about="http://www.archesproject.org/13ac354e-5103-4c39-8677-0402009573bc">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "f998dafc-9869-4ba1-bc8b-16face30e4e8", "value": "http://www.archesproject.org/13ac354e-5103-4c39-8677-0402009573bc"}</dcterms:identifier>
-        <skos:prefLabel xml:lang="en-US">{"id": "2606f9fa-b34d-4c11-9e0e-e55bb70f382b", "value": "Retains a significant number of character-defining features, such that the property\u2019s visual, spatial and contextual relationships may be understood"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "2606f9fa-b34d-4c11-9e0e-e55bb70f382b", "value": "Retains a significant number of character-defining features, such that the property's visual, spatial and contextual relationships may be understood"}</skos:prefLabel>
       </skos:Concept>
     </skos:narrower>
     <skos:narrower>
@@ -4063,7 +4063,7 @@
     </skos:narrower>
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/6b148370-21f9-44f6-ac57-0abff797acb1">
-        <skos:prefLabel xml:lang="en-US">{"id": "fbb41ab7-74d7-4f90-9deb-6f393d75ff3d", "value": "May include areas for social recreational functions (e.g., childcare facilities, children\u2019s play areas, senior activity centers, clubhouses, recreation centers, auditoriums, picnic tables, and grill areas)"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "fbb41ab7-74d7-4f90-9deb-6f393d75ff3d", "value": "May include areas for social recreational functions (e.g., childcare facilities, children's play areas, senior activity centers, clubhouses, recreation centers, auditoriums, picnic tables, and grill areas)"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "020ed534-9688-4f67-9405-5cb12ab8c108", "value": "http://www.archesproject.org/6b148370-21f9-44f6-ac57-0abff797acb1"}</dcterms:identifier>
       </skos:Concept>
@@ -4562,7 +4562,7 @@
       <skos:Concept rdf:about="http://www.archesproject.org/3632d66c-569d-40e7-9ccf-dd1bbb68d0a9">
         <dcterms:identifier xml:lang="en-US">{"id": "f3e1c62d-9d8a-4684-853e-b06865abdb4a", "value": "http://www.archesproject.org/3632d66c-569d-40e7-9ccf-dd1bbb68d0a9"}</dcterms:identifier>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "1ef73e69-7353-4f79-89f6-f37b0b1bb641", "value": "Not one of the \u201cBig Eight\u201d motion picture studios"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "1ef73e69-7353-4f79-89f6-f37b0b1bb641", "value": "Not one of the \"Big Eight\" motion picture studios"}</skos:prefLabel>
       </skos:Concept>
     </skos:narrower>
     <skos:narrower>
@@ -4764,7 +4764,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/6a9da5dd-16eb-4c64-a2fa-8ff49990f2ee">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "dd86e8ac-b607-43dd-908c-cfbce230b704", "value": "May be associated with an individual important in the area\u2019s early ethnic or women\u2019s history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "dd86e8ac-b607-43dd-908c-cfbce230b704", "value": "May be associated with an individual important in the area's early ethnic or women's history"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "790faaba-60d5-45d6-b5b6-077116afc512", "value": "http://www.archesproject.org/6a9da5dd-16eb-4c64-a2fa-8ff49990f2ee"}</dcterms:identifier>
       </skos:Concept>
     </skos:narrower>
@@ -4925,7 +4925,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/cf10bb5e-b041-4b72-a939-38f0cef162a2">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "328ce075-070a-4920-a3b7-28ffbf4604fb", "value": "\"Mimetic\u201d refers to buildings which mimic forms which are not related to the building\u2019s use"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "328ce075-070a-4920-a3b7-28ffbf4604fb", "value": "\"Mimetic\" refers to buildings which mimic forms which are not related to the building's use"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "92845fa4-a62e-4acd-b810-9e7799133ad3", "value": "http://www.archesproject.org/cf10bb5e-b041-4b72-a939-38f0cef162a2"}</dcterms:identifier>
       </skos:Concept>
     </skos:narrower>
@@ -5003,7 +5003,7 @@
       <skos:Concept rdf:about="http://www.archesproject.org/71f846d0-8feb-4bb5-9d01-d6f07e911726">
         <dcterms:identifier xml:lang="en-US">{"id": "c77b6a5c-872f-4f80-884f-9529079ed26f", "value": "http://www.archesproject.org/71f846d0-8feb-4bb5-9d01-d6f07e911726"}</dcterms:identifier>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "2ee4fc6a-623c-4420-be93-c2b0173ccb64", "value": "Windows \u201cpunched\u201d into walls, with no surrounds"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "2ee4fc6a-623c-4420-be93-c2b0173ccb64", "value": "Windows \"punched\" into walls, with no surrounds"}</skos:prefLabel>
       </skos:Concept>
     </skos:narrower>
     <skos:narrower>
@@ -5527,7 +5527,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/f3743380-2592-4b8d-a227-e3a1c6413d87">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "a1be9bb4-eaf4-46c8-82fc-80c4bc3abca7", "value": "May be associated with individuals important in ethnic, cultural, LGBT or women\u2019s history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "a1be9bb4-eaf4-46c8-82fc-80c4bc3abca7", "value": "May be associated with individuals important in ethnic, cultural, LGBT or women's history"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "dab631b4-0f38-41a2-8425-5a03ed4a4b50", "value": "http://www.archesproject.org/f3743380-2592-4b8d-a227-e3a1c6413d87"}</dcterms:identifier>
       </skos:Concept>
     </skos:narrower>
@@ -5638,7 +5638,7 @@
     </skos:narrower>
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/f19a128c-6a3d-4008-8d33-49c845e1565f">
-        <skos:prefLabel xml:lang="en-US">{"id": "0ce9469e-1862-4597-9330-f04867ccd7d3", "value": "Is an example of the work of one of Los Angeles\u2019s pioneer Modernists (F. L. Wright, L. Wright, Schindler, Neutra, possibly Gill)"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "0ce9469e-1862-4597-9330-f04867ccd7d3", "value": "Is an example of the work of one of Los Angeles's pioneer Modernists (F. L. Wright, L. Wright, Schindler, Neutra, possibly Gill)"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "0ac57ebc-6cc2-4f34-97b2-aa46afada1eb", "value": "http://www.archesproject.org/f19a128c-6a3d-4008-8d33-49c845e1565f"}</dcterms:identifier>
       </skos:Concept>
@@ -6240,7 +6240,7 @@
     </skos:narrower>
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/d5d6807f-3723-4c76-9529-3b81dff9442a">
-        <skos:prefLabel xml:lang="en-US">{"id": "26a2f98c-e17d-4264-826c-c38168ee0de9", "value": "May be associated with an individual important in Venice\u2019s ethnic or women\u2019s history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "26a2f98c-e17d-4264-826c-c38168ee0de9", "value": "May be associated with an individual important in Venice's ethnic or women's history"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "ae88b163-27ec-425d-86da-fc1e4e173742", "value": "http://www.archesproject.org/d5d6807f-3723-4c76-9529-3b81dff9442a"}</dcterms:identifier>
       </skos:Concept>
@@ -6339,7 +6339,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/221b7325-4b2e-4785-9a9d-82e876b27f61">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "52057343-0664-452b-bbc0-e9ad84d9c1e3", "value": "May be associated with an individual important in Watts\u2019s ethnic or women\u2019s history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "52057343-0664-452b-bbc0-e9ad84d9c1e3", "value": "May be associated with an individual important in Watts's ethnic or women's history"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "bd6e7a3f-2e4b-4b3a-bd40-1c6e76799718", "value": "http://www.archesproject.org/221b7325-4b2e-4785-9a9d-82e876b27f61"}</dcterms:identifier>
       </skos:Concept>
     </skos:narrower>
@@ -6780,7 +6780,7 @@
     </skos:narrower>
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/9c5caa29-31b1-48e9-aeca-bdb254623192">
-        <skos:prefLabel xml:lang="en-US">{"id": "40bba6e9-bd8b-4e46-8102-d8e8b148a326", "value": "Oriented toward the street, with architectural detailing on the street-facing fa\u00e7ade"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "40bba6e9-bd8b-4e46-8102-d8e8b148a326", "value": "Oriented toward the street, with architectural detailing on the street-facing facade"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "5220346e-b404-489b-ae4a-eaef727af864", "value": "http://www.archesproject.org/9c5caa29-31b1-48e9-aeca-bdb254623192"}</dcterms:identifier>
       </skos:Concept>
@@ -7081,7 +7081,7 @@
     </skos:narrower>
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/266bda54-535a-480b-b90f-93804e8674d6">
-        <skos:prefLabel xml:lang="en-US">{"id": "281abef9-41ba-4f0d-98d1-9b9e10281fae", "value": "May exemplify design features of Art Deco, Streamline Moderne, exaggeratedly modernist/\u201cGoogie,\u201d or thematic architectural styles\u2014streamlines, angularity, offset composition of intersecting forms, fanciful or programmatic pictorial illustrations"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "281abef9-41ba-4f0d-98d1-9b9e10281fae", "value": "May exemplify design features of Art Deco, Streamline Moderne, exaggeratedly modernist/\"Googie,\" or thematic architectural styles--streamlines, angularity, offset composition of intersecting forms, fanciful or programmatic pictorial illustrations"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "c07d4d78-1880-4c7e-bc8c-2f62c47e9251", "value": "http://www.archesproject.org/266bda54-535a-480b-b90f-93804e8674d6"}</dcterms:identifier>
       </skos:Concept>
@@ -7145,7 +7145,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/c45c9336-40b6-4ea9-8634-fef9f8ac051b">
         <dcterms:identifier xml:lang="en-US">{"id": "b1dd6a45-7242-463e-bf28-8851182aef55", "value": "http://www.archesproject.org/c45c9336-40b6-4ea9-8634-fef9f8ac051b"}</dcterms:identifier>
-        <skos:prefLabel xml:lang="en-US">{"id": "080c327c-f91c-4c57-9ed0-15a79a45fb53", "value": "May be associated with groups important in Watts\u2019s early ethnic history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "080c327c-f91c-4c57-9ed0-15a79a45fb53", "value": "May be associated with groups important in Watts's early ethnic history"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
       </skos:Concept>
     </skos:narrower>
@@ -7392,7 +7392,7 @@
       <skos:Concept rdf:about="http://www.archesproject.org/b7c6dcb1-4f9e-4292-b50b-f9e11e04a110">
         <dcterms:identifier xml:lang="en-US">{"id": "c1419cd7-edaf-458d-b128-33c4bab6e58c", "value": "http://www.archesproject.org/b7c6dcb1-4f9e-4292-b50b-f9e11e04a110"}</dcterms:identifier>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "b810275d-5d52-43e7-9955-0866145f26f6", "value": "May be associated with groups important in Venice\u2019s early ethnic history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "b810275d-5d52-43e7-9955-0866145f26f6", "value": "May be associated with groups important in Venice's early ethnic history"}</skos:prefLabel>
       </skos:Concept>
     </skos:narrower>
     <skos:narrower>
@@ -7454,7 +7454,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/b9597892-ffb9-4c24-8b35-9a1266b9a312">
         <dcterms:identifier xml:lang="en-US">{"id": "788c6e08-6e51-4d66-b5d8-b4e952a8120b", "value": "http://www.archesproject.org/b9597892-ffb9-4c24-8b35-9a1266b9a312"}</dcterms:identifier>
-        <skos:prefLabel xml:lang="en-US">{"id": "7d12bbd4-7e47-43be-a37d-82cd8c2b4ebc", "value": "May be associated with individuals important in ethnic, cultural, LGBT or women\u2019s  history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "7d12bbd4-7e47-43be-a37d-82cd8c2b4ebc", "value": "May be associated with individuals important in ethnic, cultural, LGBT or women's  history"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
       </skos:Concept>
     </skos:narrower>
@@ -7489,7 +7489,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/14a595ff-90c5-4317-bb7e-a9fc698e458b">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "7e7e03f3-03cc-414e-bc98-7c31f6965006", "value": "Symbolic imagery\u2014scenes, pictures\u2014may join lettering or words or names"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "7e7e03f3-03cc-414e-bc98-7c31f6965006", "value": "Symbolic imagery--scenes, pictures--may join lettering or words or names"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "bdcfe4d0-ea2e-47ec-b616-dbb4a4ee2873", "value": "http://www.archesproject.org/14a595ff-90c5-4317-bb7e-a9fc698e458b"}</dcterms:identifier>
       </skos:Concept>
     </skos:narrower>
@@ -7742,7 +7742,7 @@
       <skos:Concept rdf:about="http://www.archesproject.org/3b15dec0-5c2f-4163-87d1-98d7fb7000c7">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "8d4da3b9-e27f-4780-829d-74169e90282f", "value": "http://www.archesproject.org/3b15dec0-5c2f-4163-87d1-98d7fb7000c7"}</dcterms:identifier>
-        <skos:prefLabel xml:lang="en-US">{"id": "951cf446-0523-49d9-a764-9fef40d81ee8", "value": "Zigzags, chevrons and other stylized and geometric motifs as decorative elements on fa\u00e7ade"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "951cf446-0523-49d9-a764-9fef40d81ee8", "value": "Zigzags, chevrons and other stylized and geometric motifs as decorative elements on facade"}</skos:prefLabel>
       </skos:Concept>
     </skos:narrower>
     <skos:narrower>
@@ -7860,7 +7860,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/e69189d1-ad7a-4d6a-9ea7-3bb36ee7836d">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "cef9118e-91ae-495b-9e6b-48545d250d17", "value": "May be associated with groups important in San Pedro\u2019s early ethnic history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "cef9118e-91ae-495b-9e6b-48545d250d17", "value": "May be associated with groups important in San Pedro's early ethnic history"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "cbdbe359-d2c8-4a61-a02c-04b1eaee2373", "value": "http://www.archesproject.org/e69189d1-ad7a-4d6a-9ea7-3bb36ee7836d"}</dcterms:identifier>
       </skos:Concept>
     </skos:narrower>
@@ -8674,7 +8674,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/c0deb57c-1a36-4aca-96dc-5766c472d2e6">
         <dcterms:identifier xml:lang="en-US">{"id": "6b6785d1-0a0c-4748-b19f-84ffbd71fcd5", "value": "http://www.archesproject.org/c0deb57c-1a36-4aca-96dc-5766c472d2e6"}</dcterms:identifier>
-        <skos:prefLabel xml:lang="en-US">{"id": "6f27d690-65cb-4eb1-8258-64eef3efacb3", "value": "May be associated with groups important in Wilmington\u2019s early ethnic history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "6f27d690-65cb-4eb1-8258-64eef3efacb3", "value": "May be associated with groups important in Wilmington's early ethnic history"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
       </skos:Concept>
     </skos:narrower>
@@ -8808,7 +8808,7 @@
       <skos:Concept rdf:about="http://www.archesproject.org/5aa04f15-709e-4eca-a34d-7992156a99f7">
         <dcterms:identifier xml:lang="en-US">{"id": "c63741f0-868c-46a0-8ff7-d9d67a65ca0b", "value": "http://www.archesproject.org/5aa04f15-709e-4eca-a34d-7992156a99f7"}</dcterms:identifier>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "557e97aa-3cac-46cd-9c0a-c63e46e42b1e", "value": "If the property is the only remaining resource associated with a person significant in the history of American literature, it may be eligible even if all or most of the person\u2019s significant writing occurred before living in the property"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "557e97aa-3cac-46cd-9c0a-c63e46e42b1e", "value": "If the property is the only remaining resource associated with a person significant in the history of American literature, it may be eligible even if all or most of the person's significant writing occurred before living in the property"}</skos:prefLabel>
       </skos:Concept>
     </skos:narrower>
     <skos:narrower>
@@ -9536,7 +9536,7 @@
       <skos:Concept rdf:about="http://www.archesproject.org/9f1ca0e7-4a80-4c8b-8838-e8d4dbf649dc">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "7af11a0f-0954-4cd6-b18d-2b205f7023ad", "value": "http://www.archesproject.org/9f1ca0e7-4a80-4c8b-8838-e8d4dbf649dc"}</dcterms:identifier>
-        <skos:prefLabel xml:lang="en-US">{"id": "1d6507b4-0b0e-45fe-be23-1700b8b5a086", "value": "May be associated with an individual important in Wilmington\u2019s ethnic or women\u2019s history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "1d6507b4-0b0e-45fe-be23-1700b8b5a086", "value": "May be associated with an individual important in Wilmington's ethnic or women's history"}</skos:prefLabel>
       </skos:Concept>
     </skos:narrower>
     <skos:narrower>
@@ -9906,7 +9906,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/d4c176f9-faf7-422f-aa6e-d2e4f0be9422">
         <dcterms:identifier xml:lang="en-US">{"id": "7aa546f9-70c4-43d9-bc4c-4fa04267b193", "value": "http://www.archesproject.org/d4c176f9-faf7-422f-aa6e-d2e4f0be9422"}</dcterms:identifier>
-        <skos:prefLabel xml:lang="en-US">{"id": "d07a7e90-200a-4bf2-8b8e-dda2f4c2defb", "value": "May exemplify design features of sans-serif modernism; scripted and slanted typefaces of post-World War II period; askew,  modernist or \u201cGoogie\u201d styled forms and features; thematic or exotic imagery; or bubble-type, psychedelic"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "d07a7e90-200a-4bf2-8b8e-dda2f4c2defb", "value": "May exemplify design features of sans-serif modernism; scripted and slanted typefaces of post-World War II period; askew,  modernist or \"Googie\" styled forms and features; thematic or exotic imagery; or bubble-type, psychedelic"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
       </skos:Concept>
     </skos:narrower>
@@ -10094,7 +10094,7 @@
     </skos:narrower>
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/0ad48966-8530-4383-aeea-1199d1785847">
-        <skos:prefLabel xml:lang="en-US">{"id": "42650bf5-1bb9-4730-a5d6-e2e8b2ef3aa9", "value": "Projects over the sidewalk, perpendicular to the building fa\u00e7ade, sometimes extending above the cornice, parapet, or roof"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "42650bf5-1bb9-4730-a5d6-e2e8b2ef3aa9", "value": "Projects over the sidewalk, perpendicular to the building facade, sometimes extending above the cornice, parapet, or roof"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "04c76418-90fb-4d77-a258-d660d8c1b398", "value": "http://www.archesproject.org/0ad48966-8530-4383-aeea-1199d1785847"}</dcterms:identifier>
       </skos:Concept>
@@ -10326,7 +10326,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/f6beb48f-7ae8-46e7-a3dc-f34867c6de7e">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "cc7954b0-90c6-4b4c-8646-7c3ac5606b19", "value": "Symmetrical fa\u00e7ade with entryway as the primary focus"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "cc7954b0-90c6-4b4c-8646-7c3ac5606b19", "value": "Symmetrical facade with entryway as the primary focus"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "fadbb797-3b98-44ee-a900-6e316c5a78d3", "value": "http://www.archesproject.org/f6beb48f-7ae8-46e7-a3dc-f34867c6de7e"}</dcterms:identifier>
       </skos:Concept>
     </skos:narrower>
@@ -10417,7 +10417,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/5b7f3f57-1785-435e-9b54-cd6246d02ece">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "175721e1-451d-4d42-a523-7a241bbdef25", "value": "Perpendicular orientation to the building fa\u00e7ade, attached by a pole, metal brackets, and/or guy wires"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "175721e1-451d-4d42-a523-7a241bbdef25", "value": "Perpendicular orientation to the building facade, attached by a pole, metal brackets, and/or guy wires"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "91aa17f6-b637-4968-ba79-0ac216c7d20a", "value": "http://www.archesproject.org/5b7f3f57-1785-435e-9b54-cd6246d02ece"}</dcterms:identifier>
       </skos:Concept>
     </skos:narrower>
@@ -10437,7 +10437,7 @@
     </skos:narrower>
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/b233389d-cecd-49cd-a1b4-82d694c90f23">
-        <skos:prefLabel xml:lang="en-US">{"id": "de897fd2-91b8-445c-9ebf-515eb0336e8c", "value": "May be associated with groups important in Sawtelle\u2019s early ethnic history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "de897fd2-91b8-445c-9ebf-515eb0336e8c", "value": "May be associated with groups important in Sawtelle's early ethnic history"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "fb3722b1-8cda-49bd-8164-21fef7d12b5b", "value": "http://www.archesproject.org/b233389d-cecd-49cd-a1b4-82d694c90f23"}</dcterms:identifier>
       </skos:Concept>
@@ -10466,7 +10466,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/0316d3b2-74b0-4978-a19d-99841ea10bc5">
         <dcterms:identifier xml:lang="en-US">{"id": "be97ce5f-4fec-4242-b1bc-28d21a0f1bfb", "value": "http://www.archesproject.org/0316d3b2-74b0-4978-a19d-99841ea10bc5"}</dcterms:identifier>
-        <skos:prefLabel xml:lang="en-US">{"id": "0dda1f67-a43c-4af0-81d9-acf7118e8f85", "value": "Frequent gathering places where influential writers, artists, musicians and others \u201chung out,\u201d worked together and shared ideas"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "0dda1f67-a43c-4af0-81d9-acf7118e8f85", "value": "Frequent gathering places where influential writers, artists, musicians and others \"hung out,\" worked together and shared ideas"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
       </skos:Concept>
     </skos:narrower>
@@ -10599,7 +10599,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/11f465d2-a01e-420e-87de-d1d8fd86d77c">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "16a4e121-5edb-48a9-ad8c-3bdc10c8b8c2", "value": "The addition of decorative elements to originally sparse fa\u00e7ades"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "16a4e121-5edb-48a9-ad8c-3bdc10c8b8c2", "value": "The addition of decorative elements to originally sparse facades"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "43433985-04bc-445e-9e62-754a73defa93", "value": "http://www.archesproject.org/11f465d2-a01e-420e-87de-d1d8fd86d77c"}</dcterms:identifier>
       </skos:Concept>
     </skos:narrower>
@@ -11193,7 +11193,7 @@
     </skos:narrower>
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/7559c188-32b2-4272-9dc6-53b8dc22798e">
-        <skos:prefLabel xml:lang="en-US">{"id": "a12a13c5-5c64-4297-9162-bad75d1e342c", "value": "May include \u201cgardenesque\u201d design features such as a wide variety of mature vegetation to delineate activity areas, ornamental planting beds, large concentrations of a particular species or type of vegetation"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "a12a13c5-5c64-4297-9162-bad75d1e342c", "value": "May include \"gardenesque\" design features such as a wide variety of mature vegetation to delineate activity areas, ornamental planting beds, large concentrations of a particular species or type of vegetation"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "155660d0-1778-450f-9be4-9fbdd24c47a8", "value": "http://www.archesproject.org/7559c188-32b2-4272-9dc6-53b8dc22798e"}</dcterms:identifier>
       </skos:Concept>
@@ -11243,7 +11243,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/9173bd86-12a2-406e-8e2d-c446e70a6a21">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "c32006dc-b6ab-4d9b-ac28-9ed7d90c78c2", "value": "May be associated with an individual important in Barnes City\u2019s ethnic or women\u2019s history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "c32006dc-b6ab-4d9b-ac28-9ed7d90c78c2", "value": "May be associated with an individual important in Barnes City's ethnic or women's history"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "12a949b9-75a3-42ca-bfcc-ee4cd31c48fa", "value": "http://www.archesproject.org/9173bd86-12a2-406e-8e2d-c446e70a6a21"}</dcterms:identifier>
       </skos:Concept>
     </skos:narrower>
@@ -11412,7 +11412,7 @@
       <skos:Concept rdf:about="http://www.archesproject.org/18471151-7409-4065-9561-ff6706341a7a">
         <dcterms:identifier xml:lang="en-US">{"id": "a813f9d2-a54d-447f-bd67-7ef2255df2b7", "value": "http://www.archesproject.org/18471151-7409-4065-9561-ff6706341a7a"}</dcterms:identifier>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "fe96611b-b59a-4045-9e08-b40304f81334", "value": "May be associated with an individual important in Hollywood\u2019s ethnic or women\u2019s history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "fe96611b-b59a-4045-9e08-b40304f81334", "value": "May be associated with an individual important in Hollywood's ethnic or women's history"}</skos:prefLabel>
       </skos:Concept>
     </skos:narrower>
     <skos:narrower>
@@ -12183,7 +12183,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/a23c4f55-052e-40b1-b4d6-5f32c52a60f7">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "811277ef-f653-4b65-ba48-db7b4d74cc16", "value": "Combination of fa\u00e7ade materials, primarily stucco with brick veneer or wood clapboard"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "811277ef-f653-4b65-ba48-db7b4d74cc16", "value": "Combination of facade materials, primarily stucco with brick veneer or wood clapboard"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "549e3847-cee2-490e-94d4-6920b392131b", "value": "http://www.archesproject.org/a23c4f55-052e-40b1-b4d6-5f32c52a60f7"}</dcterms:identifier>
       </skos:Concept>
     </skos:narrower>
@@ -12743,7 +12743,7 @@
     </skos:narrower>
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/043710fd-d0ee-496d-8668-e6229bc9b0eb">
-        <skos:prefLabel xml:lang="en-US">{"id": "9e23f8d3-b7a8-4111-a620-70010128721a", "value": "May contain a \u201cback lot\u201d used for large sets and exterior filming"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "9e23f8d3-b7a8-4111-a620-70010128721a", "value": "May contain a \"back lot\" used for large sets and exterior filming"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "98cd0625-fe63-4ddd-91d2-7df3eaa480db", "value": "http://www.archesproject.org/043710fd-d0ee-496d-8668-e6229bc9b0eb"}</dcterms:identifier>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
       </skos:Concept>
@@ -13024,7 +13024,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/8467459b-a33f-4c04-b2ef-89e58446bc52">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "d1a937be-857c-4435-817a-10fe289ef4b9", "value": "Embodies LAUSD school planning and design concepts of the Post WWII period \u2013 shift from formal and authoritarian to informal and intimate with a close relationship to outdoors"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "d1a937be-857c-4435-817a-10fe289ef4b9", "value": "Embodies LAUSD school planning and design concepts of the Post WWII period - shift from formal and authoritarian to informal and intimate with a close relationship to outdoors"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "515046ab-6c36-427c-b6be-ac1ba7d6ac5d", "value": "http://www.archesproject.org/8467459b-a33f-4c04-b2ef-89e58446bc52"}</dcterms:identifier>
       </skos:Concept>
     </skos:narrower>
@@ -13150,7 +13150,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/fd7d62e5-ab04-4b69-bb9b-97a64022b1cd">
         <dcterms:identifier xml:lang="en-US">{"id": "75d609e3-8d8f-46a2-941b-6ba8c988c8fd", "value": "http://www.archesproject.org/fd7d62e5-ab04-4b69-bb9b-97a64022b1cd"}</dcterms:identifier>
-        <skos:prefLabel xml:lang="en-US">{"id": "d443d43e-a907-4420-be3a-88a376081d26", "value": "Broad, planted all\u00e9es within an urban center"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "d443d43e-a907-4420-be3a-88a376081d26", "value": "Broad, planted allees within an urban center"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
       </skos:Concept>
     </skos:narrower>
@@ -13163,7 +13163,7 @@
     </skos:narrower>
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/c5ebeca7-394c-4bb0-90ce-922a22599096">
-        <skos:prefLabel xml:lang="en-US">{"id": "8b632283-6c0c-4fe8-afab-6a75754c9515", "value": "\"Programmatic\u201d refers to structures whose form is directly related to the products sold within"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "8b632283-6c0c-4fe8-afab-6a75754c9515", "value": "\"Programmatic\" refers to structures whose form is directly related to the products sold within"}</skos:prefLabel>
         <dcterms:identifier xml:lang="en-US">{"id": "82c91106-337e-4e55-9709-7d0c92371c06", "value": "http://www.archesproject.org/c5ebeca7-394c-4bb0-90ce-922a22599096"}</dcterms:identifier>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
       </skos:Concept>
@@ -13233,7 +13233,7 @@
     </skos:narrower>
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/30fef23e-705b-4ea6-8509-d0a11c6923b7">
-        <skos:prefLabel xml:lang="en-US">{"id": "71627e56-a0f3-4ecb-a920-f9b57e9b777c", "value": "May be associated with groups important in Barnes City\u2019s early ethnic history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "71627e56-a0f3-4ecb-a920-f9b57e9b777c", "value": "May be associated with groups important in Barnes City's early ethnic history"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "729cc6e1-82a6-48f9-a876-43c44adccc70", "value": "http://www.archesproject.org/30fef23e-705b-4ea6-8509-d0a11c6923b7"}</dcterms:identifier>
       </skos:Concept>
@@ -13277,7 +13277,7 @@
       <skos:Concept rdf:about="http://www.archesproject.org/882b986b-729a-4b90-a96a-7f69488a9ef5">
         <dcterms:identifier xml:lang="en-US">{"id": "8259584b-0b69-4f04-8c7f-4bd635c0d42a", "value": "http://www.archesproject.org/882b986b-729a-4b90-a96a-7f69488a9ef5"}</dcterms:identifier>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:prefLabel xml:lang="en-US">{"id": "d6b70a84-731e-4a35-b1f7-2601addd978e", "value": "Symmetrical fa\u00e7ade, often five bays in width"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "d6b70a84-731e-4a35-b1f7-2601addd978e", "value": "Symmetrical facade, often five bays in width"}</skos:prefLabel>
       </skos:Concept>
     </skos:narrower>
     <skos:narrower>
@@ -13437,7 +13437,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/c261a1af-0313-44b2-ae57-df147d22af8f">
         <dcterms:identifier xml:lang="en-US">{"id": "593900ca-bc23-4cb3-801e-827d84f3e214", "value": "http://www.archesproject.org/c261a1af-0313-44b2-ae57-df147d22af8f"}</dcterms:identifier>
-        <skos:prefLabel xml:lang="en-US">{"id": "7e9fb2a6-25a9-498a-bbbb-6d5b44e6c340", "value": "May be associated with groups important in Tujunga\u2019s early ethnic history"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "7e9fb2a6-25a9-498a-bbbb-6d5b44e6c340", "value": "May be associated with groups important in Tujunga's early ethnic history"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
       </skos:Concept>
     </skos:narrower>
@@ -22667,7 +22667,7 @@
     <dcterms:identifier xml:lang="en-US">{"id": "63de4235-7efd-41c9-a665-7a5df9ec0817", "value": "http://www.archesproject.org/e232ba64-d69f-4976-b426-3c844d23cc2c"}</dcterms:identifier>
     <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
     <skos:prefLabel xml:lang="en-US">{"id": "1ccace88-b1a1-4800-942a-6b1237b5134a", "value": "Asymmetrical"}</skos:prefLabel>
-    <skos:altLabel xml:lang="en-US">{"id": "34e523c3-7de2-4ca7-afdf-5b5ce2058aee", "value": "Fa\u00e7ade-Asymmetrical"}</skos:altLabel>
+    <skos:altLabel xml:lang="en-US">{"id": "34e523c3-7de2-4ca7-afdf-5b5ce2058aee", "value": "Facade-Asymmetrical"}</skos:altLabel>
   </skos:Concept>
   <skos:Concept rdf:about="http://www.archesproject.org/cf0f3360-be2e-46b5-82f8-4be4781219b9">
     <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
@@ -25741,8 +25741,8 @@
     <skos:prefLabel xml:lang="en-US">{"id": "485ef306-5bcd-4787-8b9c-1e5e10c075cc", "value": "Construction Technique"}</skos:prefLabel>
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/6f50a4f9-0e31-4984-8a5e-ae157847c7fb">
-        <skos:prefLabel xml:lang="en-US">{"id": "1f0aa116-587b-4f4b-b474-c48e5d1791f3", "value": "Fa\u00e7ade"}</skos:prefLabel>
-        <skos:altLabel xml:lang="en-US">{"id": "c5975e14-b067-48ad-a268-1c022a0059c8", "value": "Fa\u00e7ade"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "1f0aa116-587b-4f4b-b474-c48e5d1791f3", "value": "Facade"}</skos:prefLabel>
+        <skos:altLabel xml:lang="en-US">{"id": "c5975e14-b067-48ad-a268-1c022a0059c8", "value": "Facade"}</skos:altLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <skos:narrower rdf:resource="http://www.archesproject.org/5e9938c3-b1a3-48af-8120-67475d6daba4"/>
         <dcterms:identifier xml:lang="en-US">{"id": "1dcf4b6d-7232-4e49-87a4-61f60d83f215", "value": "http://www.archesproject.org/6f50a4f9-0e31-4984-8a5e-ae157847c7fb"}</dcterms:identifier>
@@ -29332,7 +29332,7 @@
     <skos:narrower>
       <skos:Concept rdf:about="http://www.archesproject.org/aa1fee55-d021-4840-97c2-7188a5c15eb2">
         <skos:prefLabel xml:lang="en-US">{"id": "2726cb17-c4cb-426c-82de-50f4df37fc99", "value": "1CL"}</skos:prefLabel>
-        <skos:definition xml:lang="en-US">{"id": "a9b87acd-4dad-4b35-b0fc-55856ecea752", "value": "Automatically listed in the California Register \u2013 Includes State Historical Landmarks 770 and above and Points of Historical Interest nominated after December 1997 and recommended for listing by the SHRC."}</skos:definition>
+        <skos:definition xml:lang="en-US">{"id": "a9b87acd-4dad-4b35-b0fc-55856ecea752", "value": "Automatically listed in the California Register - Includes State Historical Landmarks 770 and above and Points of Historical Interest nominated after December 1997 and recommended for listing by the SHRC."}</skos:definition>
         <dcterms:identifier xml:lang="en-US">{"id": "123241af-ade2-444a-9e7f-4b0011ebcf96", "value": "http://www.archesproject.org/aa1fee55-d021-4840-97c2-7188a5c15eb2"}</dcterms:identifier>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
       </skos:Concept>
@@ -29383,7 +29383,7 @@
       <skos:Concept rdf:about="http://www.archesproject.org/d6047fbb-d406-4f2e-941a-ef43838c5f88">
         <skos:prefLabel xml:lang="en-US">{"id": "ea02ee80-4f40-4a05-8eae-0b8856b5c17b", "value": "4CM"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
-        <skos:definition xml:lang="en-US">{"id": "219803e4-38b3-4b6e-84fd-1a984c4fb412", "value": "Master List - State Owned Properties \u2013 PRC \u00a75024."}</skos:definition>
+        <skos:definition xml:lang="en-US">{"id": "219803e4-38b3-4b6e-84fd-1a984c4fb412", "value": "Master List - State Owned Properties - PRC Section 5024."}</skos:definition>
         <dcterms:identifier xml:lang="en-US">{"id": "253781e8-ccd3-4e6f-bd25-386119815ef6", "value": "http://www.archesproject.org/d6047fbb-d406-4f2e-941a-ef43838c5f88"}</dcterms:identifier>
       </skos:Concept>
     </skos:narrower>
@@ -31499,7 +31499,7 @@
       <skos:Concept rdf:about="http://www.archesproject.org/27bec21b-6782-4794-b9d9-f5c141bf1808">
         <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
         <dcterms:identifier xml:lang="en-US">{"id": "133e02b6-a3f5-4726-93ff-37261bf92a76", "value": "http://www.archesproject.org/27bec21b-6782-4794-b9d9-f5c141bf1808"}</dcterms:identifier>
-        <skos:prefLabel xml:lang="en-US">{"id": "7064176e-9c89-4620-8b34-2f6e34027a18", "value": "Fa\u00e7ade"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en-US">{"id": "7064176e-9c89-4620-8b34-2f6e34027a18", "value": "Facade"}</skos:prefLabel>
       </skos:Concept>
     </skos:narrower>
     <skos:narrower rdf:resource="http://www.archesproject.org/d02eb13b-4e3f-4ee7-8149-dd823d172da6"/>
@@ -32466,7 +32466,7 @@
   <skos:Concept rdf:about="http://www.archesproject.org/5e9938c3-b1a3-48af-8120-67475d6daba4">
     <dcterms:identifier xml:lang="en-US">{"id": "98f2de1c-6358-4665-a38d-a031bd5a62a0", "value": "http://www.archesproject.org/5e9938c3-b1a3-48af-8120-67475d6daba4"}</dcterms:identifier>
     <skos:prefLabel xml:lang="en-US">{"id": "fb2a07a9-457b-4784-af2e-5fe125dd1fe9", "value": "Symmetrical"}</skos:prefLabel>
-    <skos:altLabel xml:lang="en-US">{"id": "b9dd0027-8d38-4e8c-8112-25d039599452", "value": "Fa\u00e7ade-Symmetrical"}</skos:altLabel>
+    <skos:altLabel xml:lang="en-US">{"id": "b9dd0027-8d38-4e8c-8112-25d039599452", "value": "Facade-Symmetrical"}</skos:altLabel>
     <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
   </skos:Concept>
   <skos:Concept rdf:about="http://www.archesproject.org/01cc780e-3ec0-4a9f-b28d-cd531b4e374a">
