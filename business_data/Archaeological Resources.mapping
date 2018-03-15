@@ -365,7 +365,7 @@
         {
             "arches_nodeid": "b3dd2962-0de1-11e8-ae2d-02b2d3297e3a", 
             "arches_node_name": "Start Date Type", 
-            "file_field_name": "", 
+            "file_field_name": "BEGINNING_OF_EXISTENCE_TYPE_E55", 
             "data_type": "concept", 
             "concept_export_value": "label", 
             "export": false
