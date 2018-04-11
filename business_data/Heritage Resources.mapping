@@ -254,7 +254,7 @@
         {
             "arches_nodeid": "23a06a4a-9fdc-11e7-b2cc-02e0c6d7ad7a", 
             "arches_node_name": "Keyword", 
-            "file_field_name": "KEYWORD_E55", 
+            "file_field_name": "", 
             "data_type": "concept-list", 
             "concept_export_value": "label", 
             "export": false
